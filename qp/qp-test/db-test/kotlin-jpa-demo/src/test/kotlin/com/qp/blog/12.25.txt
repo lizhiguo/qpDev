@@ -1,0 +1,8643 @@
+日期:
+2022-12-25
+
+ 
+ 
+ 
+刷新日志	
+ 
+ 
+ 
+ 
+ 
+ 
+配置选项	
+ 
+ 
+ 
+ 
+ 
+ 
+导出日志	
+ 
+ 
+ 
+展开详细信息
+来源	
+类型	
+时间
+详细信息
+控制系统
+信息
+23:59:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:58:57
+[main.cpp,543]begin import ldap user
+IP隧道
+信息
+23:57:58
+[IPTUN] Manager::_UserQuit release ip 33554692 session be073b9185e84b64
+IP隧道
+信息
+23:57:58
+[IPTUN] Release DYNAMICALLOCATED IP 2.0.1.4, tun Tun0
+控制系统
+信息
+23:57:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:56:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:55:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+23:55:34
+[MOD_TWF][30013-30200] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+23:54:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:53:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:52:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:51:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:50:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+23:50:29
+[MOD_TWF][5529-5703] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+23:49:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:48:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:47:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:46:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:45:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+23:45:24
+[MOD_TWF][5529-5632] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+23:44:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:43:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:42:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:41:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:40:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+23:40:19
+[MOD_TWF][30013-30035] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+23:39:57
+[main.cpp,543]begin import ldap user
+IP隧道
+错误
+23:39:17
+[TunWriter] TunWriter::Run(): writev failed with error 13
+IP隧道
+告警
+23:39:17
+[iptun_limit_local.c:199] not allowed 2.0.1.2 to access 1.1.1.3:89,protocol:6,limit addr type:2
+IP隧道
+错误
+23:39:17
+[TunWriter] TunWriter::Run(): writev failed with error 13
+IP隧道
+告警
+23:39:17
+[iptun_limit_local.c:199] not allowed 2.0.1.2 to access 1.1.1.3:89,protocol:6,limit addr type:2
+IP隧道
+错误
+23:39:09
+[TunWriter] TunWriter::Run(): writev failed with error 13
+IP隧道
+告警
+23:39:09
+[iptun_limit_local.c:199] not allowed 2.0.1.2 to access 1.1.1.3:89,protocol:6,limit addr type:2
+IP隧道
+错误
+23:39:09
+[TunWriter] TunWriter::Run(): writev failed with error 13
+IP隧道
+告警
+23:39:09
+[iptun_limit_local.c:199] not allowed 2.0.1.2 to access 1.1.1.3:89,protocol:6,limit addr type:2
+IP隧道
+错误
+23:39:05
+[TunWriter] TunWriter::Run(): writev failed with error 13
+IP隧道
+告警
+23:39:05
+[iptun_limit_local.c:199] not allowed 2.0.1.2 to access 1.1.1.3:89,protocol:6,limit addr type:2
+IP隧道
+错误
+23:39:05
+[TunWriter] TunWriter::Run(): writev failed with error 13
+IP隧道
+告警
+23:39:05
+[iptun_limit_local.c:199] not allowed 2.0.1.2 to access 1.1.1.3:89,protocol:6,limit addr type:2
+IP隧道
+错误
+23:39:03
+[TunWriter] TunWriter::Run(): writev failed with error 13
+IP隧道
+告警
+23:39:03
+[iptun_limit_local.c:199] not allowed 2.0.1.2 to access 1.1.1.3:89,protocol:6,limit addr type:2
+IP隧道
+错误
+23:39:03
+[TunWriter] TunWriter::Run(): writev failed with error 13
+IP隧道
+告警
+23:39:03
+[iptun_limit_local.c:199] not allowed 2.0.1.2 to access 1.1.1.3:89,protocol:6,limit addr type:2
+IP隧道
+错误
+23:39:02
+[TunWriter] TunWriter::Run(): writev failed with error 13
+IP隧道
+告警
+23:39:02
+[iptun_limit_local.c:199] not allowed 2.0.1.2 to access 1.1.1.3:89,protocol:6,limit addr type:2
+IP隧道
+错误
+23:39:02
+[TunWriter] TunWriter::Run(): writev failed with error 13
+IP隧道
+告警
+23:39:02
+[iptun_limit_local.c:199] not allowed 2.0.1.2 to access 1.1.1.3:89,protocol:6,limit addr type:2
+控制系统
+信息
+23:38:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:37:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:36:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:35:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+23:35:14
+[MOD_TWF][5529-5728] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+23:34:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:33:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:32:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:31:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:30:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+23:30:09
+[MOD_TWF][30013-30123] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+23:29:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+23:29:31
+[MOD_TWF][30013-30113] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+23:28:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:27:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+23:27:30
+[SESSION_CHECK] User 002143 logout successfully,ip address: 36.248.245.32, session ID is 29f039d77da54e5b
+SSLVPN
+信息
+23:27:30
+[LOGOUT_USRINFO][29682-29682] save logout usrinfo succ, sessid 29f039d77da54e5b, value {"reason":"LOGOUT_TIMEOUT","msg":"timeout","data":{"time":1671982050}}
+控制系统
+信息
+23:26:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:25:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+23:25:04
+[MOD_TWF][5529-5616] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+23:24:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+23:24:31
+[MOD_TWF][5529-5614] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+23:23:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:22:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:21:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:20:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+23:19:59
+[MOD_TWF][5529-5544] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+23:19:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+23:19:30
+[MOD_TWF][5529-5545] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+23:18:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:17:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:16:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:15:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:14:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+23:14:54
+[MOD_TWF][30013-30151] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+SSLVPN
+信息
+23:14:30
+[MOD_TWF][5529-5685] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+23:13:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:12:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:11:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+23:11:30
+[LIB_LIO_CTRL]Pro online start to release user, totalcount :0
+控制系统
+信息
+23:10:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:09:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+23:09:49
+[MOD_TWF][30013-30079] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+SSLVPN
+信息
+23:09:29
+[MOD_TWF][30013-30078] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+23:08:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:07:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:06:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:05:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:04:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+23:04:43
+[MOD_TWF][30013-30040] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+SSLVPN
+信息
+23:04:29
+[MOD_TWF][5529-5568] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+23:03:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:02:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:01:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+23:00:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:59:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+22:59:39
+[MOD_TWF][5529-5710] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+SSLVPN
+信息
+22:59:29
+[MOD_TWF][5529-5705] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+22:58:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:57:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:56:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:55:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:54:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+22:54:33
+[MOD_TWF][5529-5650] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+SSLVPN
+信息
+22:54:29
+[MOD_TWF][5529-5649] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+22:53:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:52:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:51:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:50:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:49:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+22:49:33
+[MOD_TWF][5529-5592] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+SSLVPN
+信息
+22:49:28
+[MOD_TWF][30013-30056] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+22:48:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:47:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:46:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:45:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:44:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+22:44:28
+[MOD_TWF][30013-30198] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+SSLVPN
+信息
+22:44:27
+[MOD_TWF][30013-30190] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+22:43:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:42:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:41:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:40:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:39:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+22:39:28
+[MOD_TWF][30013-30127] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+SSLVPN
+信息
+22:39:23
+[MOD_TWF][30013-30130] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+22:38:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:37:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:36:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:35:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:34:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+22:34:27
+[MOD_TWF][30013-30073] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+SSLVPN
+信息
+22:34:18
+[MOD_TWF][30013-30054] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+22:33:57
+[main.cpp,543]begin import ldap user
+IP隧道
+错误
+22:33:33
+[TunWriter] TunWriter::Run(): writev failed with error 13
+IP隧道
+告警
+22:33:33
+[iptun_limit_local.c:199] not allowed 2.0.1.2 to access 1.1.1.3:89,protocol:6,limit addr type:2
+IP隧道
+错误
+22:33:33
+[TunWriter] TunWriter::Run(): writev failed with error 13
+IP隧道
+告警
+22:33:33
+[iptun_limit_local.c:199] not allowed 2.0.1.2 to access 1.1.1.3:89,protocol:6,limit addr type:2
+IP隧道
+错误
+22:33:25
+[TunWriter] TunWriter::Run(): writev failed with error 13
+IP隧道
+告警
+22:33:25
+[iptun_limit_local.c:199] not allowed 2.0.1.2 to access 1.1.1.3:89,protocol:6,limit addr type:2
+IP隧道
+错误
+22:33:25
+[TunWriter] TunWriter::Run(): writev failed with error 13
+IP隧道
+告警
+22:33:25
+[iptun_limit_local.c:199] not allowed 2.0.1.2 to access 1.1.1.3:89,protocol:6,limit addr type:2
+IP隧道
+错误
+22:33:21
+[TunWriter] TunWriter::Run(): writev failed with error 13
+IP隧道
+告警
+22:33:21
+[iptun_limit_local.c:199] not allowed 2.0.1.2 to access 1.1.1.3:89,protocol:6,limit addr type:2
+IP隧道
+错误
+22:33:21
+[TunWriter] TunWriter::Run(): writev failed with error 13
+IP隧道
+告警
+22:33:21
+[iptun_limit_local.c:199] not allowed 2.0.1.2 to access 1.1.1.3:89,protocol:6,limit addr type:2
+IP隧道
+错误
+22:33:19
+[TunWriter] TunWriter::Run(): writev failed with error 13
+IP隧道
+告警
+22:33:19
+[iptun_limit_local.c:199] not allowed 2.0.1.2 to access 1.1.1.3:89,protocol:6,limit addr type:2
+IP隧道
+错误
+22:33:19
+[TunWriter] TunWriter::Run(): writev failed with error 13
+IP隧道
+告警
+22:33:19
+[iptun_limit_local.c:199] not allowed 2.0.1.2 to access 1.1.1.3:89,protocol:6,limit addr type:2
+IP隧道
+错误
+22:33:18
+[TunWriter] TunWriter::Run(): writev failed with error 13
+IP隧道
+告警
+22:33:18
+[iptun_limit_local.c:199] not allowed 2.0.1.2 to access 1.1.1.3:89,protocol:6,limit addr type:2
+IP隧道
+错误
+22:33:18
+[TunWriter] TunWriter::Run(): writev failed with error 13
+IP隧道
+告警
+22:33:18
+[iptun_limit_local.c:199] not allowed 2.0.1.2 to access 1.1.1.3:89,protocol:6,limit addr type:2
+控制系统
+信息
+22:32:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:31:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:30:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:29:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+22:29:27
+[MOD_TWF][30013-30194] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+SSLVPN
+信息
+22:29:13
+[MOD_TWF][30013-30189] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+22:28:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:27:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:26:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:25:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:24:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+22:24:27
+[MOD_TWF][30013-30143] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+SSLVPN
+信息
+22:24:08
+[MOD_TWF][5529-5691] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+22:23:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:22:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:21:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:20:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:19:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+22:19:26
+[MOD_TWF][5529-5639] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+SSLVPN
+信息
+22:19:03
+[MOD_TWF][30013-30053] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+22:18:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:17:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:16:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:15:57
+[main.cpp,543]begin import ldap user
+IP隧道
+信息
+22:15:03
+[IPTUN] Manager:: user 9e073a3691174b65 reconnect success for ip 2.0.1.2, command fd is 109
+IP隧道
+信息
+22:15:03
+[IPTUN] Assign session 9e073a3691174b65 user 007310 to tun id 2. iVLanIdCount:0 iTunCount:4 olInfo.vlan_id:0,ip=2.0.1.2 dev:Tun2 gwIP:16843011
+控制系统
+信息
+22:14:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+22:14:26
+[MOD_TWF][30013-30207] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+SSLVPN
+信息
+22:13:57
+[MOD_TWF][5529-5546] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+22:13:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:12:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:11:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+22:11:26
+[LIB_LIO_CTRL]Pro online start to release user, totalcount :0
+控制系统
+信息
+22:10:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:09:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+22:09:26
+[MOD_TWF][30013-30143] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+22:08:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+22:08:53
+[MOD_TWF][30013-30130] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+22:07:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:06:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:05:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:04:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+22:04:26
+[MOD_TWF][30013-30057] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+22:03:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+22:03:53
+[MOD_TWF][5529-5612] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+22:02:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:01:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+22:00:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:59:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+21:59:25
+[MOD_TWF][30013-30213] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+21:58:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+21:58:53
+[MOD_TWF][5529-5536] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+21:57:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:56:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:55:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:54:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+21:54:25
+[MOD_TWF][30013-30119] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+21:53:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+21:53:53
+[MOD_TWF][5529-5663] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+21:52:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:51:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:50:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:49:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+21:49:24
+[MOD_TWF][30013-30046] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+21:48:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+21:48:53
+[MOD_TWF][30013-30038] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+21:47:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:46:57
+[main.cpp,543]begin import ldap user
+IP隧道
+信息
+21:46:17
+[IPTUN] Manager::_UserQuit release ip 33554690 session 9e073a3691174b65
+IP隧道
+信息
+21:46:17
+[IPTUN] Release DYNAMICALLOCATED IP 2.0.1.2, tun Tun2
+控制系统
+信息
+21:45:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:44:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+21:44:24
+[MOD_TWF][30013-30188] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+21:43:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+21:43:52
+[MOD_TWF][5529-5728] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+21:42:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:41:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:40:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:39:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+21:39:24
+[MOD_TWF][5529-5674] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+21:38:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+21:38:52
+[MOD_TWF][30013-30099] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+21:37:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:36:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:35:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:34:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+21:34:24
+[MOD_TWF][5529-5610] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+21:33:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+21:33:47
+[MOD_TWF][30013-30031] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+21:32:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:31:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:30:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:29:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+21:29:23
+[MOD_TWF][5529-5536] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+21:28:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+21:28:42
+[MOD_TWF][5529-5729] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+21:27:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:26:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:25:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:24:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+21:24:23
+[MOD_TWF][30013-30110] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+21:23:57
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+21:23:42
+[MOD_TWF][30013-30094] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+21:22:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:21:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:20:57
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:19:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+21:19:23
+[MOD_TWF][5529-5600] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+21:18:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+21:18:42
+[MOD_TWF][5529-5589] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+21:17:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:16:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:15:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:14:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+21:14:22
+[MOD_TWF][30013-30171] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+21:13:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+21:13:42
+[MOD_TWF][30013-30154] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+21:12:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:11:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+21:11:23
+[LIB_LIO_CTRL]Pro online start to release user, totalcount :0
+控制系统
+信息
+21:10:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:09:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+21:09:22
+[MOD_TWF][5529-5652] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+21:08:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+21:08:42
+[MOD_TWF][5529-5641] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+IP隧道
+信息
+21:08:23
+[IPTUN] Manager::_UserQuit release ip 33554693 session 890039e1ba29525b
+IP隧道
+信息
+21:08:23
+[IPTUN] Release DYNAMICALLOCATED IP 2.0.1.5, tun Tun1
+SSLVPN
+信息
+21:08:22
+[MOD_TWF][5529-5642] User 77041741 logout successfully<sess:890039e1ba29525b user:77041741 ip:120.36.228.120 vip:2.0.1.5 uri:/por/logout.csp>
+控制系统
+信息
+21:07:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:06:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:05:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:05:02
+[integralChk][custom] check_sq3_config, nret=0
+控制系统
+信息
+21:04:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+21:04:21
+[MOD_TWF][5529-5582] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+21:03:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+21:03:42
+[MOD_TWF][5529-5572] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+21:02:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+21:02:36
+[MOD_TWF][30013-30208] client device type is NULL, def to ssl<ip:183.250.118.166 uri:/por/login_auth.csp>
+控制系统
+信息
+21:01:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+21:00:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+21:00:32
+[REDIS][5529-5724] exec redis command failed; Reason: reply(type: NIL, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGET twf_plugin_configs user/svpnSetting:-1)<sess:890039e1ba29525b user:77041741 ip:120.36.228.120 vip:2.0.1.5 uri:/por/svpnSetting.csp>
+SSLVPN
+信息
+21:00:32
+[REDIS][5529-5724] exec redis command failed; Reason: reply(type: NIL, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGET twf_plugin_configs user/personInfo:-1)<sess:890039e1ba29525b user:77041741 ip:120.36.228.120 vip:2.0.1.5 uri:/por/perinfo.csp>
+SSLVPN
+信息
+21:00:31
+[REDIS][5529-5724] exec redis command failed; Reason: reply(type: NIL, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGET twf_plugin_configs public/updateSession:-1)<sess:890039e1ba29525b user:77041741 ip:120.36.228.120 vip:2.0.1.5 uri:/por/update_session.csp>
+IP隧道
+信息
+21:00:29
+[IPTUN] Manager::_MakeCommandTCP: user 890039e1ba29525b with ip 2.0.1.5 set command fd 111,current user cnt 4
+IP隧道
+信息
+21:00:29
+[IPTUN] Assign session 890039e1ba29525b user 77041741 to tun id 1. iVLanIdCount:0 iTunCount:4 olInfo.vlan_id:0,ip=2.0.1.5 dev:Tun1 gwIP:16843010
+SSLVPN
+信息
+21:00:26
+[MOD_TWF][30013-30166] get mobileid failed for user:77041741<sess:890039e1ba29525b user:77041741 ip:120.36.228.120 vip:2.0.1.5 uri:/por/conf.csp>
+SSLVPN
+信息
+21:00:26
+[MOD_TWF][30013-30166] get mobileid failed for user:77041741<sess:890039e1ba29525b user:77041741 ip:120.36.228.120 uri:/por/conf.csp>
+SSLVPN
+信息
+21:00:25
+[MOD_TWF][5529-5710] user: 77041741 login successfully, IP: 120.36.228.120, MAC:48-2a-e3-21-12-16,HOST:XM77041741,OS:Windows<sess:c90039e1ba29525b user:77041741 ip:120.36.228.120 uri:/por/login_psw.csp>
+SSLVPN
+信息
+21:00:25
+[MOD_TWF][5529-5710] User 77041741 login successfully, session ID is '890039e1ba29525b'<sess:c90039e1ba29525b user:77041741 ip:120.36.228.120 uri:/por/login_psw.csp>
+SSLVPN
+信息
+21:00:25
+[MOD_TWF][5529-5710] not auth service left, ready to online<sess:c90039e1ba29525b user:77041741 ip:120.36.228.120 uri:/por/login_psw.csp>
+SSLVPN
+信息
+21:00:25
+[MOD_TWF][5529-5710] update code 244429321, ret 0<sess:c90039e1ba29525b user:77041741 ip:120.36.228.120 uri:/por/login_psw.csp>
+SSLVPN
+信息
+21:00:25
+[REDIS][5529-5710] exec redis command failed; Reason: reply(type: ARRAY, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGETALL sess:c90039e1ba29525b)<sess:c90039e1ba29525b ip:120.36.228.120 uri:/por/login_psw.csp>
+SSLVPN
+信息
+21:00:25
+[REDIS][31557-31797] exec redis command failed; Reason: reply(type: ARRAY, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGETALL sess:c90039e1ba29525b)<sess:c90039e1ba29525b uri:/por/login_psw.csp>
+SSLVPN
+信息
+21:00:25
+[REDIS][31557-31795] exec redis command failed; Reason: reply(type: ARRAY, integer: 0, elements: 1, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HMGET sess:c90039e1ba29525b twf_service_chain )<sess:c90039e1ba29525b uri:/por/login_psw.csp>
+SSLVPN
+信息
+21:00:25
+[AUTHZ][5529-5710] ######## OK, [/por/login_psw.csp] alias to [auth/psw] success. #########<sess:c90039e1ba29525b ip:120.36.228.120 uri:/por/login_psw.csp>
+SSLVPN
+信息
+21:00:25
+[MOD_TWF][5529-5710] update code 643237315, ret 0<sess:c90039e1ba29525b ip:120.36.228.120 uri:/por/login_auth.csp>
+SSLVPN
+信息
+21:00:25
+[MOD_TWF][5529-5710] client device type is NULL, def to ssl<sess:c90039e1ba29525b ip:120.36.228.120 uri:/por/login_auth.csp>
+控制系统
+信息
+20:59:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+20:59:49
+[REDIS][5529-5701] exec redis command failed; Reason: reply(type: NIL, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGET twf_plugin_configs public/psw_config:-1)<sess:c90039e1ba29525b ip:120.36.228.120 uri:/psw_config>
+SSLVPN
+信息
+20:59:49
+[MOD_TWF][5529-5701] update code 57457419, ret 0<ip:120.36.228.120 uri:/por/login_auth.csp>
+SSLVPN
+信息
+20:59:49
+[MOD_TWF][5529-5701] client device type is NULL, def to ssl<ip:120.36.228.120 uri:/por/login_auth.csp>
+SSLVPN
+信息
+20:59:49
+[MOD_TWF][5529-5701] user session has timeout, create new session!<ip:120.36.228.120 uri:/por/login_auth.csp>
+SSLVPN
+信息
+20:59:48
+[REDIS][30013-30167] exec redis command failed; Reason: reply(type: NIL, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGET twf_plugin_configs public/jsdata:-1)<ip:120.36.228.120 uri:/por/jsdata.csp>
+SSLVPN
+信息
+20:59:20
+[MOD_TWF][5529-5678] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+20:58:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+20:58:42
+[MOD_TWF][5529-5694] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+20:57:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+20:57:33
+[MOD_TWF][5529-5665] client device type is NULL, def to ssl<ip:183.250.118.166 uri:/por/login_auth.csp>
+控制系统
+信息
+20:56:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:55:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:55:02
+[integralChk][custom] check_sq3_config, nret=0
+控制系统
+信息
+20:54:56
+[main.cpp,543]begin import ldap user
+IP隧道
+信息
+20:54:56
+[IPTUN] Manager:: user 9e073a3691174b65 reconnect success for ip 2.0.1.2, command fd is 109
+IP隧道
+信息
+20:54:56
+[IPTUN] Assign session 9e073a3691174b65 user 007310 to tun id 2. iVLanIdCount:0 iTunCount:4 olInfo.vlan_id:0,ip=2.0.1.2 dev:Tun2 gwIP:16843011
+SSLVPN
+信息
+20:54:18
+[MOD_TWF][5529-5614] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+20:53:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+20:53:42
+[MOD_TWF][30013-30068] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+20:52:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+20:52:30
+[MOD_TWF][5529-5603] client device type is NULL, def to ssl<ip:183.250.118.166 uri:/por/login_auth.csp>
+控制系统
+信息
+20:51:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:50:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:49:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+20:49:17
+[MOD_TWF][5529-5544] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+20:48:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+20:48:42
+[MOD_TWF][5529-5733] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+20:47:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+20:47:29
+[MOD_TWF][5529-5718] client device type is NULL, def to ssl<ip:183.250.118.166 uri:/por/login_auth.csp>
+控制系统
+信息
+20:46:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+20:45:57
+[REDIS][30013-30163] exec redis command failed; Reason: reply(type: NIL, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGET twf_plugin_configs user/svpnSetting:-1)<sess:be073b9185e84b64 user:002274 ip:183.253.27.46 vip:2.0.1.4 uri:/por/svpnSetting.csp>
+SSLVPN
+信息
+20:45:57
+[REDIS][5529-5696] exec redis command failed; Reason: reply(type: NIL, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGET twf_plugin_configs user/personInfo:-1)<sess:be073b9185e84b64 user:002274 ip:183.253.27.46 vip:2.0.1.4 uri:/por/perinfo.csp>
+控制系统
+信息
+20:45:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+20:45:56
+[REDIS][5529-5696] exec redis command failed; Reason: reply(type: NIL, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGET twf_plugin_configs public/updateSession:-1)<sess:be073b9185e84b64 user:002274 ip:183.253.27.46 vip:2.0.1.4 uri:/por/update_session.csp>
+IP隧道
+信息
+20:45:56
+[IPTUN] Manager::_MakeCommandTCP: user be073b9185e84b64 with ip 2.0.1.4 set command fd 106,current user cnt 2
+IP隧道
+信息
+20:45:56
+[IPTUN] Assign session be073b9185e84b64 user 002274 to tun id 0. iVLanIdCount:0 iTunCount:4 olInfo.vlan_id:0,ip=2.0.1.4 dev:Tun0 gwIP:16843009
+SSLVPN
+信息
+20:45:53
+[MOD_TWF][30013-30150] get mobileid failed for user:002274<sess:be073b9185e84b64 user:002274 ip:183.253.27.46 vip:2.0.1.4 uri:/por/conf.csp>
+SSLVPN
+信息
+20:45:53
+[MOD_TWF][30013-30150] get mobileid failed for user:002274<sess:be073b9185e84b64 user:002274 ip:183.253.27.46 uri:/por/conf.csp>
+SSLVPN
+信息
+20:45:53
+[MOD_TWF][5529-5677] user: 002274 login successfully, IP: 183.253.27.46, MAC:00-f4-8d-d0-10-35,HOST:XM002274,OS:Windows<sess:fe073b9185e84b64 user:002274 ip:183.253.27.46 uri:/por/login_psw.csp>
+SSLVPN
+信息
+20:45:53
+[MOD_TWF][5529-5677] User 002274 login successfully, session ID is 'be073b9185e84b64'<sess:fe073b9185e84b64 user:002274 ip:183.253.27.46 uri:/por/login_psw.csp>
+SSLVPN
+信息
+20:45:53
+[MOD_TWF][5529-5677] not auth service left, ready to online<sess:fe073b9185e84b64 user:002274 ip:183.253.27.46 uri:/por/login_psw.csp>
+SSLVPN
+信息
+20:45:53
+[MOD_TWF][5529-5677] update code 998085244, ret 0<sess:fe073b9185e84b64 user:002274 ip:183.253.27.46 uri:/por/login_psw.csp>
+SSLVPN
+信息
+20:45:53
+[REDIS][5529-5677] exec redis command failed; Reason: reply(type: ARRAY, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGETALL sess:fe073b9185e84b64)<sess:fe073b9185e84b64 ip:183.253.27.46 uri:/por/login_psw.csp>
+SSLVPN
+信息
+20:45:53
+[REDIS][31557-31778] exec redis command failed; Reason: reply(type: ARRAY, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGETALL sess:fe073b9185e84b64)<sess:fe073b9185e84b64 uri:/por/login_psw.csp>
+SSLVPN
+信息
+20:45:53
+[REDIS][31557-31776] exec redis command failed; Reason: reply(type: ARRAY, integer: 0, elements: 1, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HMGET sess:fe073b9185e84b64 twf_service_chain )<sess:fe073b9185e84b64 uri:/por/login_psw.csp>
+SSLVPN
+信息
+20:45:53
+[AUTHZ][5529-5677] ######## OK, [/por/login_psw.csp] alias to [auth/psw] success. #########<sess:fe073b9185e84b64 ip:183.253.27.46 uri:/por/login_psw.csp>
+SSLVPN
+信息
+20:45:53
+[MOD_TWF][5529-5677] update code 325268430, ret 0<sess:fe073b9185e84b64 ip:183.253.27.46 uri:/por/login_auth.csp>
+SSLVPN
+信息
+20:45:53
+[MOD_TWF][5529-5677] client device type is NULL, def to ssl<sess:fe073b9185e84b64 ip:183.253.27.46 uri:/por/login_auth.csp>
+SSLVPN
+信息
+20:45:40
+[REDIS][5529-5677] exec redis command failed; Reason: reply(type: NIL, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGET twf_plugin_configs public/psw_config:-1)<sess:fe073b9185e84b64 ip:183.253.27.46 uri:/psw_config>
+SSLVPN
+信息
+20:45:40
+[MOD_TWF][5529-5677] update code 697455354, ret 0<ip:183.253.27.46 uri:/por/login_auth.csp>
+SSLVPN
+信息
+20:45:40
+[MOD_TWF][5529-5677] client device type is NULL, def to ssl<ip:183.253.27.46 uri:/por/login_auth.csp>
+SSLVPN
+信息
+20:45:40
+[MOD_TWF][5529-5677] user session has timeout, create new session!<ip:183.253.27.46 uri:/por/login_auth.csp>
+SSLVPN
+信息
+20:45:40
+[REDIS][30013-30157] exec redis command failed; Reason: reply(type: NIL, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGET twf_plugin_configs public/jsdata:-1)<ip:183.253.27.46 uri:/por/jsdata.csp>
+控制系统
+信息
+20:44:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+20:44:17
+[MOD_TWF][5529-5661] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+20:43:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+20:43:42
+[MOD_TWF][5529-5649] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+20:42:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+20:42:24
+[MOD_TWF][5529-5633] client device type is NULL, def to ssl<ip:183.250.118.166 uri:/por/login_auth.csp>
+控制系统
+信息
+20:41:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:40:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:39:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+20:39:13
+[MOD_TWF][30013-30057] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+20:38:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+20:38:42
+[MOD_TWF][5529-5576] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+20:37:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+20:37:20
+[MOD_TWF][5529-5558] client device type is NULL, def to ssl<ip:183.250.118.166 uri:/por/login_auth.csp>
+控制系统
+信息
+20:36:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:35:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:34:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+20:34:11
+[MOD_TWF][30013-30189] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+20:33:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+20:33:42
+[MOD_TWF][5529-5704] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+20:32:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:31:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:30:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:29:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+20:29:11
+[MOD_TWF][5529-5643] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+20:28:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+20:28:42
+[MOD_TWF][5529-5642] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+20:27:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:26:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:25:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:24:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+20:24:07
+[MOD_TWF][5529-5582] client device type is NULL, def to ssl<ip:120.36.252.110 uri:/por/login_auth.csp>
+控制系统
+信息
+20:23:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+20:23:42
+[MOD_TWF][5529-5579] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+20:22:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:21:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:20:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:19:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:18:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+20:18:42
+[MOD_TWF][5529-5719] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+20:17:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:16:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:15:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:14:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:13:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+20:13:42
+[MOD_TWF][5529-5647] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+20:12:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:11:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+20:11:20
+[LIB_LIO_CTRL]Pro online start to release user, totalcount :0
+控制系统
+信息
+20:10:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:09:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:08:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+20:08:41
+[MOD_TWF][30013-30065] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+20:07:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:06:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:05:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:04:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:03:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+20:03:40
+[MOD_TWF][5529-5709] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+20:02:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:01:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+20:00:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:59:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:58:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+19:58:40
+[MOD_TWF][5529-5642] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+19:57:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:56:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:55:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:54:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:53:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+19:53:40
+[MOD_TWF][30013-30070] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+19:52:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:51:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:50:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:49:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:48:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+19:48:40
+[MOD_TWF][30013-30213] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+19:47:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:46:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:45:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:44:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:43:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+19:43:40
+[MOD_TWF][30013-30138] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+19:42:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:41:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:40:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:39:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:38:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+19:38:39
+[MOD_TWF][5529-5580] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+19:37:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:36:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:35:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:34:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:33:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+19:33:39
+[MOD_TWF][30013-30200] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+19:32:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:31:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:30:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:29:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:28:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+19:28:39
+[MOD_TWF][5529-5654] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+19:27:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:26:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:25:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:24:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:23:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+19:23:39
+[MOD_TWF][5529-5582] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+19:22:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:21:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:20:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:19:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:18:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+19:18:38
+[MOD_TWF][5529-5719] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+IP隧道
+信息
+19:18:04
+[IPTUN] Manager::_UserQuit release ip 33554690 session 9e073a3691174b65
+IP隧道
+信息
+19:18:04
+[IPTUN] Release DYNAMICALLOCATED IP 2.0.1.2, tun Tun2
+控制系统
+信息
+19:17:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:16:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+19:16:29
+[MOD_TWF][30013-30180] client device type is NULL, def to ssl<ip:1.203.146.118 uri:/por/login_auth.csp>
+控制系统
+信息
+19:15:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+告警
+19:15:36
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 61.149.120.146 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:15:32
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 120.36.234.149 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:15:14
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 61.175.204.233 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+控制系统
+信息
+19:14:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+告警
+19:14:48
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 183.6.57.161 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:14:44
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 121.238.103.126 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:14:32
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 112.47.162.2 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:14:23
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 218.85.126.130 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:14:17
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 111.30.126.245 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:14:15
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 120.244.60.217 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:14:04
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 117.24.53.124 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:14:04
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 183.6.57.161 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:14:01
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 183.6.57.161 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:13:59
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 119.97.195.230 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:13:57
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 39.106.146.123 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+控制系统
+信息
+19:13:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+告警
+19:13:41
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 59.61.29.76 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+信息
+19:13:38
+[MOD_TWF][5529-5652] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+SSLVPN
+告警
+19:13:31
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 222.77.35.24 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:13:21
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 120.41.214.16 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:13:21
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 120.245.2.213 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:13:07
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 119.97.195.230 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+控制系统
+信息
+19:12:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+告警
+19:12:36
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 113.224.184.65 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:12:13
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 221.228.203.2 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:12:12
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 221.228.203.2 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:12:04
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 157.0.113.234 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:11:59
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 36.113.32.30 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:11:58
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 125.34.57.51 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:11:57
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 61.152.201.199 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+控制系统
+信息
+19:11:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+告警
+19:11:35
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 223.104.41.137 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:11:31
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 180.109.33.92 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:11:28
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 183.250.220.48 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:11:27
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 120.42.209.111 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:11:26
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 110.80.45.27 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:11:21
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 121.205.49.24 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+信息
+19:11:16
+[LIB_LIO_CTRL]Pro online start to release user, totalcount :0
+控制系统
+信息
+19:10:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:09:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+告警
+19:09:53
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 113.111.18.96 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:09:53
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 183.250.220.48 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:09:47
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 183.6.57.161 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+控制系统
+信息
+19:08:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+19:08:38
+[MOD_TWF][5529-5588] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+19:07:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+告警
+19:06:57
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 36.113.32.30 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:06:57
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 125.34.57.51 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+控制系统
+信息
+19:06:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+告警
+19:06:52
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 61.152.201.199 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:06:33
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 223.104.41.137 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:06:31
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 180.109.33.92 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:06:27
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 183.250.220.48 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:06:26
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 110.80.45.27 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+SSLVPN
+告警
+19:06:21
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 121.205.49.24 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+控制系统
+信息
+19:05:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:04:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:03:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+19:03:38
+[MOD_TWF][5529-5719] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+19:02:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:01:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+19:00:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:59:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:58:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+18:58:38
+[MOD_TWF][5529-5649] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+18:57:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:56:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:55:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:54:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:53:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+18:53:38
+[MOD_TWF][30013-30074] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+18:52:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:51:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:50:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:49:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:48:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+18:48:38
+[MOD_TWF][5529-5717] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+18:47:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:46:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:45:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:44:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:43:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+18:43:38
+[MOD_TWF][30013-30145] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+18:42:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:41:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:40:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:39:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:38:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+18:38:38
+[MOD_TWF][30013-30073] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+18:37:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+告警
+18:37:14
+[mod_ssl_wafsdk.c:463] [wafsdk] Action: 27.43.110.78 req uri[ /por/login_auth.csp ] block, Reason: shellcode detected, param[ 0 ], value[ I ], HowTo: if misreport, modify the configuration file to add white
+控制系统
+信息
+18:36:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:35:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:34:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+18:34:50
+[REDIS][5529-5529] clientMode:0, isClusterd:0, enableSyslog:0, redis(host: 127.0.0.1 port: 7005 pass:6655942567585548667), sentinel(host: port: 0 pass:6142509188972423790)
+SSLVPN
+信息
+18:34:50
+[REDIS][5529-5529] update redis from (host: port: 0 pass:6142509188972423790) to (host: 127.0.0.1 port: 7005 pass:6655942567585548667) load redisconf
+SSLVPN
+信息
+18:34:50
+[REDIS][5529-5529] clientMode:0, isClusterd:0, enableSyslog:0, redis(host: 127.0.0.1 port: 7005 pass:6655942567585548667), sentinel(host: port: 0 pass:6142509188972423790)
+SSLVPN
+信息
+18:34:50
+[REDIS][5529-5529] update redis from (host: port: 0 pass:6142509188972423790) to (host: 127.0.0.1 port: 7005 pass:6655942567585548667) load redisconf
+SSLVPN
+信息
+18:34:50
+[DATA][5529-5529] init libdata ok, process uid:99 euid:99
+SSLVPN
+信息
+18:34:50
+[DATA][5529-5529] init libdata, process uid:99 euid:99 ...
+控制系统
+信息
+18:33:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+18:33:38
+[MOD_TWF][30013-30201] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+18:32:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:31:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:30:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:29:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:28:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+18:28:38
+[MOD_TWF][30013-30139] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+18:27:56
+[main.cpp,543]begin import ldap user
+IP隧道
+信息
+18:27:41
+[IPTUN] Manager::_UserQuit release ip 33554689 session 29f039d77da54e5b
+IP隧道
+信息
+18:27:41
+[IPTUN] Release DYNAMICALLOCATED IP 2.0.1.1, tun Tun1
+控制系统
+信息
+18:26:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:25:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:25:01
+[integralChk][custom] check_sq3_config, nret=0
+控制系统
+信息
+18:24:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:23:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+18:23:38
+[MOD_TWF][30013-30053] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+18:22:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:21:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:20:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:19:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:18:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+18:18:38
+[MOD_TWF][30013-30188] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+18:17:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:16:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:15:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+18:15:56
+[REDIS][28549-28714] exec redis command failed; Reason: reply(type: NIL, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGET twf_plugin_configs user/svpnSetting:-1)<sess:3781ceca1787f2c8 user:3410132 ip:125.34.57.51 vip:2.0.1.3 uri:/por/svpnSetting.csp>
+SSLVPN
+信息
+18:15:56
+[REDIS][28549-28745] exec redis command failed; Reason: reply(type: NIL, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGET twf_plugin_configs user/personInfo:-1)<sess:3781ceca1787f2c8 user:3410132 ip:125.34.57.51 vip:2.0.1.3 uri:/por/perinfo.csp>
+SSLVPN
+信息
+18:15:55
+[REDIS][28549-28745] exec redis command failed; Reason: reply(type: NIL, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGET twf_plugin_configs public/updateSession:-1)<sess:3781ceca1787f2c8 user:3410132 ip:125.34.57.51 vip:2.0.1.3 uri:/por/update_session.csp>
+IP隧道
+信息
+18:15:51
+[IPTUN] Manager::_MakeCommandTCP: user 3781ceca1787f2c8 with ip 2.0.1.3 set command fd 113,current user cnt 3
+IP隧道
+信息
+18:15:51
+[IPTUN] Assign session 3781ceca1787f2c8 user 3410132 to tun id 3. iVLanIdCount:0 iTunCount:4 olInfo.vlan_id:0,ip=2.0.1.3 dev:Tun3 gwIP:16843012
+SSLVPN
+信息
+18:15:45
+[MOD_TWF][30013-30131] get mobileid failed for user:3410132<sess:3781ceca1787f2c8 user:3410132 ip:125.34.57.51 vip:2.0.1.3 uri:/por/conf.csp>
+SSLVPN
+信息
+18:15:45
+[MOD_TWF][30013-30131] get mobileid failed for user:3410132<sess:3781ceca1787f2c8 user:3410132 ip:125.34.57.51 uri:/por/conf.csp>
+SSLVPN
+信息
+18:15:44
+[MOD_TWF][30013-30133] user: 3410132 login successfully, IP: 125.34.57.51, MAC:78-4f-43-5d-9c-e5,HOST:DESKTOP-G48B4UG,OS:Windows<sess:7781ceca1787f2c8 user:3410132 ip:125.34.57.51 uri:/por/login_psw.csp>
+SSLVPN
+信息
+18:15:44
+[MOD_TWF][30013-30133] User 3410132 login successfully, session ID is '3781ceca1787f2c8'<sess:7781ceca1787f2c8 user:3410132 ip:125.34.57.51 uri:/por/login_psw.csp>
+SSLVPN
+信息
+18:15:44
+[MOD_TWF][30013-30133] not auth service left, ready to online<sess:7781ceca1787f2c8 user:3410132 ip:125.34.57.51 uri:/por/login_psw.csp>
+SSLVPN
+信息
+18:15:44
+[MOD_TWF][30013-30133] update code 2133857665, ret 0<sess:7781ceca1787f2c8 user:3410132 ip:125.34.57.51 uri:/por/login_psw.csp>
+SSLVPN
+信息
+18:15:44
+[REDIS][30013-30133] exec redis command failed; Reason: reply(type: ARRAY, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGETALL sess:7781ceca1787f2c8)<sess:7781ceca1787f2c8 ip:125.34.57.51 uri:/por/login_psw.csp>
+SSLVPN
+信息
+18:15:44
+[REDIS][31557-31607] exec redis command failed; Reason: reply(type: ARRAY, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGETALL sess:7781ceca1787f2c8)<sess:7781ceca1787f2c8 uri:/por/login_psw.csp>
+SSLVPN
+信息
+18:15:44
+[REDIS][31557-31605] exec redis command failed; Reason: reply(type: ARRAY, integer: 0, elements: 1, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HMGET sess:7781ceca1787f2c8 twf_service_chain )<sess:7781ceca1787f2c8 uri:/por/login_psw.csp>
+SSLVPN
+信息
+18:15:44
+[AUTHZ][30013-30133] ######## OK, [/por/login_psw.csp] alias to [auth/psw] success. #########<sess:7781ceca1787f2c8 ip:125.34.57.51 uri:/por/login_psw.csp>
+SSLVPN
+信息
+18:15:44
+[MOD_TWF][30013-30133] update code 155793654, ret 0<sess:7781ceca1787f2c8 ip:125.34.57.51 uri:/por/login_auth.csp>
+SSLVPN
+信息
+18:15:44
+[MOD_TWF][30013-30133] client device type is NULL, def to ssl<sess:7781ceca1787f2c8 ip:125.34.57.51 uri:/por/login_auth.csp>
+SSLVPN
+信息
+18:15:38
+[REDIS][30013-30133] exec redis command failed; Reason: reply(type: NIL, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGET twf_plugin_configs public/psw_config:-1)<sess:7781ceca1787f2c8 ip:125.34.57.51 uri:/psw_config>
+SSLVPN
+信息
+18:15:38
+[MOD_TWF][30013-30133] update code 337880822, ret 0<ip:125.34.57.51 uri:/por/login_auth.csp>
+SSLVPN
+信息
+18:15:38
+[MOD_TWF][30013-30133] client device type is NULL, def to ssl<ip:125.34.57.51 uri:/por/login_auth.csp>
+SSLVPN
+信息
+18:15:38
+[MOD_TWF][30013-30133] user session has timeout, create new session!<ip:125.34.57.51 uri:/por/login_auth.csp>
+SSLVPN
+信息
+18:15:37
+[REDIS][30013-30132] exec redis command failed; Reason: reply(type: NIL, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGET twf_plugin_configs public/jsdata:-1)<ip:125.34.57.51 uri:/por/jsdata.csp>
+控制系统
+信息
+18:15:02
+[integralChk][custom] check_sq3_config, nret=0
+控制系统
+信息
+18:14:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:13:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+18:13:38
+[MOD_TWF][30013-30101] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+18:12:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:11:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+18:11:13
+[LIB_LIO_CTRL]Pro online start to release user, totalcount :0
+控制系统
+信息
+18:10:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+18:10:53
+[REDIS][28549-28648] exec redis command failed; Reason: reply(type: NIL, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGET twf_plugin_configs user/svpnSetting:-1)<sess:29f039d77da54e5b user:002143 ip:36.248.245.32 vip:2.0.1.1 uri:/por/svpnSetting.csp>
+SSLVPN
+信息
+18:10:53
+[REDIS][30013-30063] exec redis command failed; Reason: reply(type: NIL, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGET twf_plugin_configs user/personInfo:-1)<sess:29f039d77da54e5b user:002143 ip:36.248.245.32 vip:2.0.1.1 uri:/por/perinfo.csp>
+SSLVPN
+信息
+18:10:52
+[REDIS][30013-30063] exec redis command failed; Reason: reply(type: NIL, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGET twf_plugin_configs public/updateSession:-1)<sess:29f039d77da54e5b user:002143 ip:36.248.245.32 vip:2.0.1.1 uri:/por/update_session.csp>
+IP隧道
+信息
+18:10:51
+[IPTUN] Manager::_MakeCommandTCP: user 29f039d77da54e5b with ip 2.0.1.1 set command fd 107,current user cnt 2
+IP隧道
+信息
+18:10:51
+[IPTUN] Assign session 29f039d77da54e5b user 002143 to tun id 1. iVLanIdCount:0 iTunCount:4 olInfo.vlan_id:0,ip=2.0.1.1 dev:Tun1 gwIP:16843010
+SSLVPN
+信息
+18:10:49
+[MOD_TWF][28549-28639] get mobileid failed for user:002143<sess:29f039d77da54e5b user:002143 ip:36.248.245.32 vip:2.0.1.1 uri:/por/conf.csp>
+SSLVPN
+信息
+18:10:49
+[MOD_TWF][28549-28639] get mobileid failed for user:002143<sess:29f039d77da54e5b user:002143 ip:36.248.245.32 uri:/por/conf.csp>
+SSLVPN
+信息
+18:10:48
+[MOD_TWF][30013-30049] user: 002143 login successfully, IP: 36.248.245.32, MAC:48-2a-e3-5b-64-5f,HOST:XM002143B,OS:Windows<sess:69f039d77da54e5b user:002143 ip:36.248.245.32 uri:/por/login_psw.csp>
+SSLVPN
+信息
+18:10:48
+[MOD_TWF][30013-30049] User 002143 login successfully, session ID is '29f039d77da54e5b'<sess:69f039d77da54e5b user:002143 ip:36.248.245.32 uri:/por/login_psw.csp>
+SSLVPN
+信息
+18:10:48
+[MOD_TWF][30013-30049] not auth service left, ready to online<sess:69f039d77da54e5b user:002143 ip:36.248.245.32 uri:/por/login_psw.csp>
+SSLVPN
+信息
+18:10:48
+[MOD_TWF][30013-30049] update code 1180372874, ret 0<sess:69f039d77da54e5b user:002143 ip:36.248.245.32 uri:/por/login_psw.csp>
+SSLVPN
+信息
+18:10:48
+[REDIS][30013-30049] exec redis command failed; Reason: reply(type: ARRAY, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGETALL sess:69f039d77da54e5b)<sess:69f039d77da54e5b ip:36.248.245.32 uri:/por/login_psw.csp>
+SSLVPN
+信息
+18:10:48
+[REDIS][31557-31599] exec redis command failed; Reason: reply(type: ARRAY, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGETALL sess:69f039d77da54e5b)<sess:69f039d77da54e5b uri:/por/login_psw.csp>
+SSLVPN
+信息
+18:10:48
+[REDIS][31557-31597] exec redis command failed; Reason: reply(type: ARRAY, integer: 0, elements: 1, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HMGET sess:69f039d77da54e5b twf_service_chain )<sess:69f039d77da54e5b uri:/por/login_psw.csp>
+SSLVPN
+信息
+18:10:48
+[AUTHZ][30013-30049] ######## OK, [/por/login_psw.csp] alias to [auth/psw] success. #########<sess:69f039d77da54e5b ip:36.248.245.32 uri:/por/login_psw.csp>
+SSLVPN
+信息
+18:10:48
+[MOD_TWF][30013-30049] update code 853731414, ret 0<sess:69f039d77da54e5b ip:36.248.245.32 uri:/por/login_auth.csp>
+SSLVPN
+信息
+18:10:48
+[MOD_TWF][30013-30049] client device type is NULL, def to ssl<sess:69f039d77da54e5b ip:36.248.245.32 uri:/por/login_auth.csp>
+SSLVPN
+信息
+18:10:41
+[MOD_TWF][30013-30049] processPasswordAttack(002143, 36.248.245.32, 20004)<sess:69f039d77da54e5b user:002143 ip:36.248.245.32 uri:/por/login_psw.csp>
+SSLVPN
+信息
+18:10:41
+[MOD_TWF][30013-30049] processAttackLock, service=auth/psw, username=002143, ip=36.248.245.32, reason=20004<sess:69f039d77da54e5b user:002143 ip:36.248.245.32 uri:/por/login_psw.csp>
+SSLVPN
+信息
+18:10:41
+[MOD_TWF][30013-30049] update code 434096457, ret 0<sess:69f039d77da54e5b user:002143 ip:36.248.245.32 uri:/por/login_psw.csp>
+SSLVPN
+信息
+18:10:41
+[REDIS][30013-30049] exec redis command failed; Reason: reply(type: ARRAY, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGETALL sess:69f039d77da54e5b)<sess:69f039d77da54e5b ip:36.248.245.32 uri:/por/login_psw.csp>
+SSLVPN
+信息
+18:10:41
+[REDIS][31557-31596] exec redis command failed; Reason: reply(type: ARRAY, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGETALL sess:69f039d77da54e5b)<sess:69f039d77da54e5b uri:/por/login_psw.csp>
+SSLVPN
+信息
+18:10:41
+[REDIS][31557-31594] exec redis command failed; Reason: reply(type: ARRAY, integer: 0, elements: 1, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HMGET sess:69f039d77da54e5b twf_service_chain )<sess:69f039d77da54e5b uri:/por/login_psw.csp>
+SSLVPN
+信息
+18:10:41
+[AUTHZ][30013-30049] ######## OK, [/por/login_psw.csp] alias to [auth/psw] success. #########<sess:69f039d77da54e5b ip:36.248.245.32 uri:/por/login_psw.csp>
+SSLVPN
+信息
+18:10:41
+[MOD_TWF][30013-30049] update code 1974658538, ret 0<sess:69f039d77da54e5b ip:36.248.245.32 uri:/por/login_auth.csp>
+SSLVPN
+信息
+18:10:41
+[MOD_TWF][30013-30049] client device type is NULL, def to ssl<sess:69f039d77da54e5b ip:36.248.245.32 uri:/por/login_auth.csp>
+SSLVPN
+信息
+18:10:30
+[REDIS][30013-30049] exec redis command failed; Reason: reply(type: NIL, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGET twf_plugin_configs public/psw_config:-1)<sess:69f039d77da54e5b ip:36.248.245.32 uri:/psw_config>
+SSLVPN
+信息
+18:10:29
+[MOD_TWF][30013-30049] update code 1182309639, ret 0<ip:36.248.245.32 uri:/por/login_auth.csp>
+SSLVPN
+信息
+18:10:29
+[MOD_TWF][30013-30049] client device type is NULL, def to ssl<ip:36.248.245.32 uri:/por/login_auth.csp>
+SSLVPN
+信息
+18:10:29
+[MOD_TWF][30013-30049] user session has timeout, create new session!<ip:36.248.245.32 uri:/por/login_auth.csp>
+SSLVPN
+信息
+18:10:29
+[REDIS][30013-30047] exec redis command failed; Reason: reply(type: NIL, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGET twf_plugin_configs public/jsdata:-1)<ip:36.248.245.32 uri:/por/jsdata.csp>
+控制系统
+信息
+18:09:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:08:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+18:08:38
+[MOD_TWF][28549-28584] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+SSLVPN
+信息
+18:08:31
+[REDIS][30013-30013] clientMode:0, isClusterd:0, enableSyslog:0, redis(host: 127.0.0.1 port: 7005 pass:6655942567585548667), sentinel(host: port: 0 pass:6142509188972423790)
+SSLVPN
+信息
+18:08:31
+[REDIS][30013-30013] update redis from (host: port: 0 pass:6142509188972423790) to (host: 127.0.0.1 port: 7005 pass:6655942567585548667) load redisconf
+SSLVPN
+信息
+18:08:31
+[REDIS][30013-30013] clientMode:0, isClusterd:0, enableSyslog:0, redis(host: 127.0.0.1 port: 7005 pass:6655942567585548667), sentinel(host: port: 0 pass:6142509188972423790)
+SSLVPN
+信息
+18:08:31
+[REDIS][30013-30013] update redis from (host: port: 0 pass:6142509188972423790) to (host: 127.0.0.1 port: 7005 pass:6655942567585548667) load redisconf
+SSLVPN
+信息
+18:08:31
+[DATA][30013-30013] init libdata ok, process uid:99 euid:99
+SSLVPN
+信息
+18:08:31
+[DATA][30013-30013] init libdata, process uid:99 euid:99 ...
+控制系统
+信息
+18:07:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:06:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:05:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:04:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:03:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+18:03:38
+[MOD_TWF][29131-29290] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+18:02:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:01:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+18:00:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:59:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:58:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+17:58:37
+[MOD_TWF][29131-29217] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+17:57:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:56:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:55:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:54:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:53:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+17:53:37
+[MOD_TWF][28549-28599] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+17:52:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:51:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:50:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:49:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:48:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+17:48:37
+[MOD_TWF][28549-28730] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+17:47:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:46:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:45:56
+[main.cpp,543]begin import ldap user
+IP隧道
+信息
+17:45:22
+[IPTUN] Manager:: user 9e073a3691174b65 reconnect success for ip 2.0.1.2, command fd is 109
+IP隧道
+信息
+17:45:22
+[IPTUN] Manager::_DoPvFlag ip was used, reuse pV!
+控制系统
+信息
+17:44:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:43:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+17:43:37
+[MOD_TWF][28549-28658] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+17:42:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:41:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:40:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:39:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:38:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+17:38:37
+[MOD_TWF][28549-28605] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+17:37:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:36:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:35:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:34:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:33:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+17:33:37
+[MOD_TWF][28549-28723] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+17:32:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:31:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:30:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:29:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:28:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+17:28:37
+[MOD_TWF][29131-29191] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+17:27:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:26:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:25:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:24:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:23:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+17:23:37
+[MOD_TWF][29131-29343] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+17:22:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:21:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:20:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:19:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:18:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+17:18:37
+[MOD_TWF][29131-29263] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+17:17:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:16:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:15:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:14:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:13:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+17:13:32
+[MOD_TWF][28549-28644] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+17:12:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:11:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+17:11:10
+[LIB_LIO_CTRL]Pro online start to release user, totalcount :0
+控制系统
+信息
+17:10:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:09:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:08:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+17:08:27
+[MOD_TWF][29131-29337] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+17:07:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:06:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:05:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:04:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:03:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+17:03:22
+[MOD_TWF][28549-28698] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+17:02:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:01:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+17:00:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:59:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:58:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+16:58:17
+[MOD_TWF][28549-28615] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+16:57:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:56:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:55:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:54:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:53:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+16:53:12
+[MOD_TWF][28549-28714] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+16:52:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+16:52:09
+[SESSION_CHECK] User yjs001 logout successfully,ip address: 183.250.220.48, session ID is a3500e6ed9686896
+SSLVPN
+信息
+16:52:09
+[LOGOUT_USRINFO][29682-29682] save logout usrinfo succ, sessid a3500e6ed9686896, value {"reason":"LOGOUT_TIMEOUT","msg":"timeout","data":{"time":1671958329}}
+控制系统
+信息
+16:51:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:50:56
+[main.cpp,543]begin import ldap user
+IP隧道
+信息
+16:50:10
+[IPTUN] Manager:: user 9e073a3691174b65 reconnect success for ip 2.0.1.2, command fd is 106
+IP隧道
+信息
+16:50:10
+[IPTUN] Assign session 9e073a3691174b65 user 007310 to tun id 2. iVLanIdCount:0 iTunCount:4 olInfo.vlan_id:0,ip=2.0.1.2 dev:Tun2 gwIP:16843011
+控制系统
+信息
+16:49:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:48:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+16:48:08
+[MOD_TWF][29131-29196] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+16:47:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:46:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:45:56
+[main.cpp,543]begin import ldap user
+SNMP
+信息
+16:45:46
+[SNMP] LINE=2430, ProcessVarBinds return not locked
+SNMP
+信息
+16:45:46
+[SNMP] LINE=2430, ProcessVarBinds return not locked
+SNMP
+信息
+16:45:46
+[SNMP] LINE=2430, ProcessVarBinds return not locked
+SNMP
+信息
+16:45:46
+[SNMP] LINE=2430, ProcessVarBinds return not locked
+SNMP
+信息
+16:45:46
+[SNMP] LINE=2430, ProcessVarBinds return not locked
+SNMP
+信息
+16:45:46
+[SNMP] LINE=2430, ProcessVarBinds return not locked
+SNMP
+信息
+16:45:46
+[SNMP] LINE=2430, ProcessVarBinds return not locked
+SNMP
+信息
+16:45:46
+[SNMP] LINE=2430, ProcessVarBinds return not locked
+控制系统
+信息
+16:44:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:43:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+16:43:02
+[MOD_TWF][29131-29342] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+16:42:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:41:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:40:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:39:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:38:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+16:37:57
+[MOD_TWF][29131-29281] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+16:37:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:36:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:35:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:34:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:33:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:32:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+16:32:52
+[MOD_TWF][29131-29174] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+16:31:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:30:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:29:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:28:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:27:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+16:27:47
+[MOD_TWF][28549-28576] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+16:26:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:25:56
+[main.cpp,543]begin import ldap user
+IP隧道
+信息
+16:25:55
+[IPTUN] Manager::_UserQuit release ip 33554690 session 9e073a3691174b65
+IP隧道
+信息
+16:25:55
+[IPTUN] Release DYNAMICALLOCATED IP 2.0.1.2, tun Tun2
+控制系统
+信息
+16:24:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:23:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:22:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+16:22:43
+[MOD_TWF][28549-28704] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+16:21:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:20:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:19:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:18:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:17:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+16:17:38
+[MOD_TWF][28549-28618] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+16:16:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:15:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:14:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:13:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:12:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+16:12:32
+[MOD_TWF][29131-29328] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+16:11:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+16:11:07
+[LIB_LIO_CTRL]Pro online start to release user, totalcount :0
+控制系统
+信息
+16:10:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:09:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:08:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:07:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+16:07:28
+[MOD_TWF][29131-29261] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+16:06:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:05:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:04:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:03:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:02:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+16:02:23
+[MOD_TWF][28549-28601] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+16:01:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+16:00:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:59:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:58:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:57:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+15:57:18
+[MOD_TWF][29131-29316] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+15:56:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:55:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:54:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:53:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:52:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+15:52:12
+[MOD_TWF][28549-28667] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+SSLVPN
+信息
+15:52:05
+[SESSION_CHECK] User 002274 logout successfully,ip address: 183.253.27.46, session ID is 9000e73b7784d96e
+SSLVPN
+信息
+15:52:05
+[LOGOUT_USRINFO][29682-29682] save logout usrinfo succ, sessid 9000e73b7784d96e, value {"reason":"LOGOUT_TIMEOUT","msg":"timeout","data":{"time":1671954725}}
+控制系统
+信息
+15:51:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:50:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:49:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:48:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:47:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+15:47:07
+[MOD_TWF][29131-29363] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+15:46:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:45:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:44:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:43:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:42:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+15:42:07
+[MOD_TWF][29131-29299] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+15:41:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:40:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:39:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:38:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:37:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+15:37:01
+[MOD_TWF][28549-28653] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+15:36:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:35:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:35:01
+[integralChk][custom] check_sq3_config, nret=0
+控制系统
+信息
+15:34:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:33:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:32:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+15:32:07
+[REDIS][29131-29364] exec redis command failed; Reason: reply(type: NIL, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGET twf_plugin_configs user/svpnSetting:-1)<sess:9e073a3691174b65 user:007310 ip:125.78.101.201 vip:2.0.1.2 uri:/por/svpnSetting.csp>
+SSLVPN
+信息
+15:32:07
+[REDIS][28549-28600] exec redis command failed; Reason: reply(type: NIL, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGET twf_plugin_configs user/personInfo:-1)<sess:9e073a3691174b65 user:007310 ip:125.78.101.201 vip:2.0.1.2 uri:/por/perinfo.csp>
+SSLVPN
+信息
+15:32:06
+[REDIS][28549-28600] exec redis command failed; Reason: reply(type: NIL, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGET twf_plugin_configs public/updateSession:-1)<sess:9e073a3691174b65 user:007310 ip:125.78.101.201 vip:2.0.1.2 uri:/por/update_session.csp>
+IP隧道
+信息
+15:32:06
+[IPTUN] Manager::_MakeCommandTCP: user 9e073a3691174b65 with ip 2.0.1.2 set command fd 106,current user cnt 1
+IP隧道
+信息
+15:32:06
+[IPTUN] Assign session 9e073a3691174b65 user 007310 to tun id 2. iVLanIdCount:0 iTunCount:4 olInfo.vlan_id:0,ip=2.0.1.2 dev:Tun2 gwIP:16843011
+SSLVPN
+信息
+15:32:04
+[MOD_TWF][29131-29342] get mobileid failed for user:007310<sess:9e073a3691174b65 user:007310 ip:125.78.101.201 vip:2.0.1.2 uri:/por/conf.csp>
+SSLVPN
+信息
+15:32:03
+[MOD_TWF][29131-29342] get mobileid failed for user:007310<sess:9e073a3691174b65 user:007310 ip:125.78.101.201 uri:/por/conf.csp>
+SSLVPN
+信息
+15:32:02
+[MOD_TWF][28549-28578] user: 007310 login successfully, IP: 125.78.101.201, MAC:24-f6-77-15-03-e0,HOST:DESKTOP-3JQQ5QR,OS:Windows<sess:de073a3691174b65 user:007310 ip:125.78.101.201 uri:/por/login_psw.csp>
+SSLVPN
+信息
+15:32:02
+[MOD_TWF][28549-28578] User 007310 login successfully, session ID is '9e073a3691174b65'<sess:de073a3691174b65 user:007310 ip:125.78.101.201 uri:/por/login_psw.csp>
+SSLVPN
+信息
+15:32:02
+[MOD_TWF][28549-28578] not auth service left, ready to online<sess:de073a3691174b65 user:007310 ip:125.78.101.201 uri:/por/login_psw.csp>
+SSLVPN
+信息
+15:32:02
+[MOD_TWF][28549-28578] update code 1324049169, ret 0<sess:de073a3691174b65 user:007310 ip:125.78.101.201 uri:/por/login_psw.csp>
+SSLVPN
+信息
+15:32:02
+[REDIS][28549-28578] exec redis command failed; Reason: reply(type: ARRAY, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGETALL sess:de073a3691174b65)<sess:de073a3691174b65 ip:125.78.101.201 uri:/por/login_psw.csp>
+SSLVPN
+信息
+15:32:02
+[REDIS][31557-31704] exec redis command failed; Reason: reply(type: ARRAY, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGETALL sess:de073a3691174b65)<sess:de073a3691174b65 uri:/por/login_psw.csp>
+SSLVPN
+信息
+15:32:02
+[REDIS][31557-31702] exec redis command failed; Reason: reply(type: ARRAY, integer: 0, elements: 1, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HMGET sess:de073a3691174b65 twf_service_chain )<sess:de073a3691174b65 uri:/por/login_psw.csp>
+SSLVPN
+信息
+15:32:02
+[AUTHZ][28549-28578] ######## OK, [/por/login_psw.csp] alias to [auth/psw] success. #########<sess:de073a3691174b65 ip:125.78.101.201 uri:/por/login_psw.csp>
+SSLVPN
+信息
+15:32:02
+[MOD_TWF][28549-28578] update code 300453066, ret 0<sess:de073a3691174b65 ip:125.78.101.201 uri:/por/login_auth.csp>
+SSLVPN
+信息
+15:32:02
+[MOD_TWF][28549-28578] client device type is NULL, def to ssl<sess:de073a3691174b65 ip:125.78.101.201 uri:/por/login_auth.csp>
+SSLVPN
+信息
+15:31:56
+[MOD_TWF][28549-28576] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+15:31:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+15:31:31
+[REDIS][29131-29320] exec redis command failed; Reason: reply(type: NIL, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGET twf_plugin_configs public/psw_config:-1)<sess:de073a3691174b65 ip:125.78.101.201 uri:/psw_config>
+SSLVPN
+信息
+15:31:30
+[MOD_TWF][29131-29320] update code 500233843, ret 0<ip:125.78.101.201 uri:/por/login_auth.csp>
+SSLVPN
+信息
+15:31:30
+[MOD_TWF][29131-29320] client device type is NULL, def to ssl<ip:125.78.101.201 uri:/por/login_auth.csp>
+SSLVPN
+信息
+15:31:30
+[MOD_TWF][29131-29320] user session has timeout, create new session!<ip:125.78.101.201 uri:/por/login_auth.csp>
+SSLVPN
+信息
+15:31:30
+[REDIS][29131-29322] exec redis command failed; Reason: reply(type: NIL, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGET twf_plugin_configs public/jsdata:-1)<ip:125.78.101.201 uri:/por/jsdata.csp>
+控制系统
+信息
+15:30:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:29:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:28:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:27:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:26:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+15:26:51
+[MOD_TWF][28549-28704] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+15:25:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:24:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:23:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:22:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:21:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+15:21:46
+[MOD_TWF][28549-28629] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+15:20:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:19:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:18:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:17:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:16:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+15:16:41
+[MOD_TWF][29131-29326] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+15:15:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:14:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:13:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:12:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:11:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+15:11:36
+[MOD_TWF][28549-28689] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+SSLVPN
+信息
+15:11:03
+[LIB_LIO_CTRL]Pro online start to release user, totalcount :0
+控制系统
+信息
+15:10:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:09:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:08:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:07:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:06:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+15:06:31
+[MOD_TWF][28549-28610] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+15:05:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:04:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:03:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:02:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+15:01:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+15:01:31
+[MOD_TWF][29131-29299] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+15:00:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:59:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:58:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:57:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:56:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+14:56:32
+[MOD_TWF][28549-28667] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+14:55:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:54:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:53:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:52:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:51:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+14:51:31
+[MOD_TWF][28549-28609] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+14:50:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:49:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:48:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:47:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:46:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+14:46:31
+[MOD_TWF][29131-29310] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+14:45:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:44:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:43:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:42:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:41:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+14:41:31
+[MOD_TWF][29131-29216] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+14:40:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:39:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:38:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:37:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:36:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+14:36:31
+[MOD_TWF][29131-29360] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+14:35:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:34:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:33:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:32:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:31:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+14:31:26
+[MOD_TWF][29131-29302] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+14:30:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:29:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:28:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:27:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:26:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+14:26:21
+[MOD_TWF][29131-29250] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+14:25:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:24:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:23:56
+[main.cpp,543]begin import ldap user
+ 
+ 
+ 
+ 	
+ 
+ 
+ 
+ 
+ 
+ 
+ 	
+ 
+ 
+ 
+日期:
+2022-12-25
+
+ 
+ 
+ 
+刷新日志	
+ 
+ 
+ 
+ 
+ 
+ 
+配置选项	
+ 
+ 
+ 
+ 
+ 
+ 
+导出日志	
+ 
+ 
+ 
+展开详细信息
+来源	
+类型	
+时间
+详细信息
+控制系统
+信息
+14:22:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:21:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+14:21:16
+[MOD_TWF][29131-29135] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+14:20:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:19:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:18:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:17:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:16:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+14:16:11
+[MOD_TWF][28549-28710] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+14:15:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:14:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:13:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:12:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:11:56
+[main.cpp,543]begin import ldap user
+IP隧道
+信息
+14:11:45
+[IPTUN] Manager::_UserQuit release ip 33554691 session a3500e6ed9686896
+IP隧道
+信息
+14:11:45
+[IPTUN] Release DYNAMICALLOCATED IP 2.0.1.3, tun Tun3
+SSLVPN
+信息
+14:11:06
+[MOD_TWF][29131-29253] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+SSLVPN
+信息
+14:11:00
+[LIB_LIO_CTRL]Pro online start to release user, totalcount :0
+控制系统
+信息
+14:10:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:09:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:08:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:07:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:06:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+14:06:01
+[MOD_TWF][29131-29157] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+14:05:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:04:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:03:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:02:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:01:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+14:00:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+14:00:56
+[MOD_TWF][28549-28716] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+13:59:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:58:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:57:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:56:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:55:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+13:55:51
+[MOD_TWF][29131-29242] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+13:54:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:53:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:52:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:51:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:50:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+13:50:51
+[MOD_TWF][29131-29148] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+13:49:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:48:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:47:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:46:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:45:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+13:45:51
+[MOD_TWF][28549-28737] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+13:44:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:43:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:42:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:41:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:40:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+13:40:51
+[MOD_TWF][29131-29244] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+13:39:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:38:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:37:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:36:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:35:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+13:35:51
+[MOD_TWF][29131-29159] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+13:34:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:33:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:32:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:31:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:30:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+13:30:51
+[MOD_TWF][29131-29326] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+13:29:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:28:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:27:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:26:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:25:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+13:25:51
+[MOD_TWF][28549-28684] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+13:24:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:23:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:22:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:21:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:20:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+13:20:51
+[MOD_TWF][28549-28624] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+13:19:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:18:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:17:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:16:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:15:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+13:15:51
+[MOD_TWF][29131-29346] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+13:14:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:13:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:12:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:11:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+13:10:57
+[LIB_LIO_CTRL]Pro online start to release user, totalcount :0
+控制系统
+信息
+13:10:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+13:10:51
+[MOD_TWF][28549-28694] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+13:09:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:08:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:07:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:06:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:05:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+13:05:51
+[MOD_TWF][28549-28632] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+13:04:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:03:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:02:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:01:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+13:00:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+13:00:51
+[MOD_TWF][29131-29346] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+12:59:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:58:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:57:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:56:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:55:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+12:55:51
+[MOD_TWF][29131-29276] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+12:54:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:53:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:52:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:51:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:50:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+12:50:51
+[MOD_TWF][28549-28639] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+12:49:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:48:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:47:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:46:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:45:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+12:45:51
+[MOD_TWF][29131-29342] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+12:44:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:43:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:42:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:41:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:40:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+12:40:51
+[MOD_TWF][29131-29273] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+12:39:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:38:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:37:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:36:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:35:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+12:35:51
+[MOD_TWF][29131-29183] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+12:34:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:33:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:32:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:31:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:30:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+12:30:51
+[MOD_TWF][29131-29346] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+12:29:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:28:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:27:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:26:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:25:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+12:25:51
+[MOD_TWF][29131-29286] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+12:24:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:23:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:22:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:21:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:20:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+12:20:51
+[MOD_TWF][28549-28634] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+12:19:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:18:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:17:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:16:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:15:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+12:15:51
+[MOD_TWF][29131-29356] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+12:14:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:13:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:12:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:11:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:10:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+12:10:53
+[LIB_LIO_CTRL]Pro online start to release user, totalcount :0
+SSLVPN
+信息
+12:10:51
+[MOD_TWF][28549-28711] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+12:09:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:08:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:07:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:06:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:05:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+12:05:51
+[MOD_TWF][28549-28641] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+12:04:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:03:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:02:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:01:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+12:00:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+12:00:50
+[MOD_TWF][28549-28594] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+11:59:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:58:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:57:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:56:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:55:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+11:55:50
+[MOD_TWF][28549-28715] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+11:54:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:53:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:52:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:51:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:50:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+11:50:50
+[MOD_TWF][29131-29247] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+11:49:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:48:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:47:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:46:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:45:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+11:45:49
+[MOD_TWF][29131-29146] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+11:44:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:43:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:42:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:41:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:40:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+11:40:49
+[MOD_TWF][29131-29339] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+11:39:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:38:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:37:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:36:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:35:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+11:35:49
+[MOD_TWF][29131-29271] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+11:34:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:33:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:32:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:31:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:30:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+11:30:49
+[MOD_TWF][28549-28629] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+11:29:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:28:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:27:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:26:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:25:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+11:25:49
+[MOD_TWF][28549-28580] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+11:24:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:23:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:22:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:21:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:20:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+11:20:49
+[MOD_TWF][29131-29302] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+11:19:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:18:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:17:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:16:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:15:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+11:15:49
+[MOD_TWF][29131-29248] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+11:14:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:13:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:12:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:11:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:10:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+11:10:50
+[LIB_LIO_CTRL]Pro online start to release user, totalcount :0
+SSLVPN
+信息
+11:10:49
+[MOD_TWF][28549-28611] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+11:09:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:08:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:07:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:06:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:05:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+11:05:49
+[MOD_TWF][28549-28562] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+11:04:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:03:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:02:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:01:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+11:00:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+11:00:49
+[MOD_TWF][28549-28701] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+10:59:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:58:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:57:56
+[main.cpp,543]begin import ldap user
+IP隧道
+信息
+10:57:21
+[IPTUN] Manager::_UserQuit release ip 33554689 session 9000e73b7784d96e
+IP隧道
+信息
+10:57:21
+[IPTUN] Release DYNAMICALLOCATED IP 2.0.1.1, tun Tun1
+控制系统
+信息
+10:56:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:55:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+10:55:49
+[MOD_TWF][28549-28660] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+10:54:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+10:54:45
+[MOD_TWF][28549-28635] client device type is NULL, def to ssl<ip:183.250.118.166 uri:/por/login_auth.csp>
+控制系统
+信息
+10:53:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:52:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:51:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:50:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+10:50:48
+[MOD_TWF][28549-28593] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+10:49:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+10:49:38
+[MOD_TWF][29131-29157] client device type is NULL, def to ssl<ip:183.250.118.166 uri:/por/login_auth.csp>
+控制系统
+信息
+10:48:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:47:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:46:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:45:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+10:45:48
+[MOD_TWF][28549-28741] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+10:44:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+10:44:34
+[MOD_TWF][29131-29336] client device type is NULL, def to ssl<ip:183.250.118.166 uri:/por/login_auth.csp>
+控制系统
+信息
+10:43:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:42:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:41:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:40:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+10:40:48
+[MOD_TWF][28549-28686] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+10:39:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+10:39:30
+[MOD_TWF][29131-29276] client device type is NULL, def to ssl<ip:183.250.118.166 uri:/por/login_auth.csp>
+控制系统
+信息
+10:38:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:37:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:36:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:35:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+10:35:48
+[MOD_TWF][28549-28643] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+10:34:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+10:34:25
+[MOD_TWF][28549-28628] client device type is NULL, def to ssl<ip:183.250.118.166 uri:/por/login_auth.csp>
+控制系统
+信息
+10:33:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:32:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:31:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:30:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+10:30:48
+[MOD_TWF][29131-29160] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+10:29:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+10:29:24
+[MOD_TWF][28549-28581] client device type is NULL, def to ssl<ip:183.250.118.166 uri:/por/login_auth.csp>
+控制系统
+信息
+10:28:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:27:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:26:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:25:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+10:25:48
+[MOD_TWF][28549-28745] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+10:24:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+10:24:20
+[MOD_TWF][28549-28727] client device type is NULL, def to ssl<ip:183.250.118.166 uri:/por/login_auth.csp>
+控制系统
+信息
+10:23:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:22:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:21:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:20:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+10:20:48
+[MOD_TWF][29131-29303] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+10:19:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:18:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:17:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:16:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:15:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+10:15:48
+[MOD_TWF][28549-28650] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+10:14:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:13:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:12:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:11:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:10:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+10:10:48
+[MOD_TWF][29131-29150] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+SSLVPN
+信息
+10:10:47
+[LIB_LIO_CTRL]Pro online start to release user, totalcount :0
+控制系统
+信息
+10:09:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:08:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:07:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:06:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:05:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+10:05:48
+[MOD_TWF][28549-28570] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+10:04:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:03:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:02:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:01:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+10:00:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+10:00:48
+[MOD_TWF][29131-29304] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+09:59:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:58:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:57:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:56:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:55:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+09:55:43
+[MOD_TWF][29131-29250] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+09:54:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:53:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:52:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:51:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:50:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+09:50:38
+[MOD_TWF][28549-28626] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+09:49:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:48:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:47:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:46:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:45:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+09:45:33
+[MOD_TWF][28549-28581] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+09:44:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:43:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:42:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:41:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:40:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+09:40:28
+[MOD_TWF][28549-28738] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+09:39:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:38:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:37:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:36:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:35:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+09:35:24
+[MOD_TWF][29131-29259] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+09:34:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:33:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:32:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:31:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:30:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+09:30:19
+[MOD_TWF][28549-28644] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+09:29:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:28:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:27:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:26:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:25:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+09:25:13
+[MOD_TWF][29131-29367] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+09:25:01
+[integralChk][custom] check_sq3_config, nret=0
+控制系统
+信息
+09:24:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:23:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:22:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:21:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:20:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+09:20:07
+[MOD_TWF][29131-29326] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+09:19:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:18:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:17:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+09:17:48
+[REDIS][28549-28727] exec redis command failed; Reason: reply(type: NIL, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGET twf_plugin_configs user/svpnSetting:-1)<sess:9000e73b7784d96e user:002274 ip:183.253.27.46 vip:2.0.1.1 uri:/por/svpnSetting.csp>
+SSLVPN
+信息
+09:17:48
+[REDIS][28549-28731] exec redis command failed; Reason: reply(type: NIL, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGET twf_plugin_configs user/personInfo:-1)<sess:9000e73b7784d96e user:002274 ip:183.253.27.46 vip:2.0.1.1 uri:/por/perinfo.csp>
+SSLVPN
+信息
+09:17:47
+[REDIS][28549-28731] exec redis command failed; Reason: reply(type: NIL, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGET twf_plugin_configs public/updateSession:-1)<sess:9000e73b7784d96e user:002274 ip:183.253.27.46 vip:2.0.1.1 uri:/por/update_session.csp>
+IP隧道
+信息
+09:17:46
+[IPTUN] Manager::_MakeCommandTCP: user 9000e73b7784d96e with ip 2.0.1.1 set command fd 107,current user cnt 2
+IP隧道
+信息
+09:17:46
+[IPTUN] Assign session 9000e73b7784d96e user 002274 to tun id 1. iVLanIdCount:0 iTunCount:4 olInfo.vlan_id:0,ip=2.0.1.1 dev:Tun1 gwIP:16843010
+SSLVPN
+信息
+09:17:44
+[MOD_TWF][29131-29279] get mobileid failed for user:002274<sess:9000e73b7784d96e user:002274 ip:183.253.27.46 vip:2.0.1.1 uri:/por/conf.csp>
+SSLVPN
+信息
+09:17:44
+[MOD_TWF][29131-29279] get mobileid failed for user:002274<sess:9000e73b7784d96e user:002274 ip:183.253.27.46 uri:/por/conf.csp>
+SSLVPN
+信息
+09:17:43
+[MOD_TWF][29131-29275] user: 002274 login successfully, IP: 183.253.27.46, MAC:00-f4-8d-d0-10-35,HOST:XM002274,OS:Windows<sess:d000e73b7784d96e user:002274 ip:183.253.27.46 uri:/por/login_psw.csp>
+SSLVPN
+信息
+09:17:43
+[MOD_TWF][29131-29275] User 002274 login successfully, session ID is '9000e73b7784d96e'<sess:d000e73b7784d96e user:002274 ip:183.253.27.46 uri:/por/login_psw.csp>
+SSLVPN
+信息
+09:17:43
+[MOD_TWF][29131-29275] not auth service left, ready to online<sess:d000e73b7784d96e user:002274 ip:183.253.27.46 uri:/por/login_psw.csp>
+SSLVPN
+信息
+09:17:43
+[MOD_TWF][29131-29275] update code 373880557, ret 0<sess:d000e73b7784d96e user:002274 ip:183.253.27.46 uri:/por/login_psw.csp>
+SSLVPN
+信息
+09:17:43
+[REDIS][29131-29275] exec redis command failed; Reason: reply(type: ARRAY, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGETALL sess:d000e73b7784d96e)<sess:d000e73b7784d96e ip:183.253.27.46 uri:/por/login_psw.csp>
+SSLVPN
+信息
+09:17:43
+[REDIS][31557-31849] exec redis command failed; Reason: reply(type: ARRAY, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGETALL sess:d000e73b7784d96e)<sess:d000e73b7784d96e uri:/por/login_psw.csp>
+SSLVPN
+信息
+09:17:43
+[REDIS][31557-31847] exec redis command failed; Reason: reply(type: ARRAY, integer: 0, elements: 1, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HMGET sess:d000e73b7784d96e twf_service_chain )<sess:d000e73b7784d96e uri:/por/login_psw.csp>
+SSLVPN
+信息
+09:17:43
+[AUTHZ][29131-29275] ######## OK, [/por/login_psw.csp] alias to [auth/psw] success. #########<sess:d000e73b7784d96e ip:183.253.27.46 uri:/por/login_psw.csp>
+SSLVPN
+信息
+09:17:43
+[MOD_TWF][29131-29275] update code 1227329563, ret 0<sess:d000e73b7784d96e ip:183.253.27.46 uri:/por/login_auth.csp>
+SSLVPN
+信息
+09:17:43
+[MOD_TWF][29131-29275] client device type is NULL, def to ssl<sess:d000e73b7784d96e ip:183.253.27.46 uri:/por/login_auth.csp>
+SSLVPN
+信息
+09:17:29
+[LIB_LOGGER][29067-29283] dump to /hislog/20221224.userlog success
+SSLVPN
+信息
+09:17:29
+[MOD_TWF][29131-29275] processPasswordAttack(002274, 183.253.27.46, 20004)<sess:d000e73b7784d96e user:002274 ip:183.253.27.46 uri:/por/login_psw.csp>
+SSLVPN
+信息
+09:17:29
+[MOD_TWF][29131-29275] processAttackLock, service=auth/psw, username=002274, ip=183.253.27.46, reason=20004<sess:d000e73b7784d96e user:002274 ip:183.253.27.46 uri:/por/login_psw.csp>
+SSLVPN
+信息
+09:17:29
+[LIB_LOGGER][29067-29283] day changed, dump log(/var/log/webui/20221224.userlog) do disk(/hislog/20221224.userlog)!
+SSLVPN
+信息
+09:17:29
+[MOD_TWF][29131-29275] update code 460277409, ret 0<sess:d000e73b7784d96e user:002274 ip:183.253.27.46 uri:/por/login_psw.csp>
+SSLVPN
+信息
+09:17:29
+[REDIS][29131-29275] exec redis command failed; Reason: reply(type: ARRAY, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGETALL sess:d000e73b7784d96e)<sess:d000e73b7784d96e ip:183.253.27.46 uri:/por/login_psw.csp>
+SSLVPN
+信息
+09:17:29
+[REDIS][31557-31846] exec redis command failed; Reason: reply(type: ARRAY, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGETALL sess:d000e73b7784d96e)<sess:d000e73b7784d96e uri:/por/login_psw.csp>
+SSLVPN
+信息
+09:17:29
+[REDIS][31557-31844] exec redis command failed; Reason: reply(type: ARRAY, integer: 0, elements: 1, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HMGET sess:d000e73b7784d96e twf_service_chain )<sess:d000e73b7784d96e uri:/por/login_psw.csp>
+SSLVPN
+信息
+09:17:29
+[AUTHZ][29131-29275] ######## OK, [/por/login_psw.csp] alias to [auth/psw] success. #########<sess:d000e73b7784d96e ip:183.253.27.46 uri:/por/login_psw.csp>
+SSLVPN
+信息
+09:17:29
+[MOD_TWF][29131-29275] update code 2010309305, ret 0<sess:d000e73b7784d96e ip:183.253.27.46 uri:/por/login_auth.csp>
+SSLVPN
+信息
+09:17:29
+[MOD_TWF][29131-29275] client device type is NULL, def to ssl<sess:d000e73b7784d96e ip:183.253.27.46 uri:/por/login_auth.csp>
+SSLVPN
+信息
+09:17:14
+[REDIS][29131-29275] exec redis command failed; Reason: reply(type: NIL, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGET twf_plugin_configs public/psw_config:-1)<sess:d000e73b7784d96e ip:183.253.27.46 uri:/psw_config>
+SSLVPN
+信息
+09:17:14
+[MOD_TWF][29131-29275] update code 260661162, ret 0<ip:183.253.27.46 uri:/por/login_auth.csp>
+SSLVPN
+信息
+09:17:14
+[MOD_TWF][29131-29275] client device type is NULL, def to ssl<ip:183.253.27.46 uri:/por/login_auth.csp>
+SSLVPN
+信息
+09:17:14
+[MOD_TWF][29131-29275] user session has timeout, create new session!<ip:183.253.27.46 uri:/por/login_auth.csp>
+SSLVPN
+信息
+09:17:12
+[REDIS][28549-28711] exec redis command failed; Reason: reply(type: NIL, integer: 0, elements: 0, str:(null)), conf(host: 127.0.0.1 port: 7005 pass:6655942567585548667), cmd(HGET twf_plugin_configs public/jsdata:-1)<ip:183.253.27.46 uri:/por/jsdata.csp>
+控制系统
+信息
+09:16:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:15:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+09:15:03
+[MOD_TWF][29131-29261] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+09:14:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:13:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:12:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:11:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:10:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+09:10:43
+[LIB_LIO_CTRL]Pro online start to release user, totalcount :0
+SSLVPN
+信息
+09:10:03
+[MOD_TWF][29131-29191] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+09:09:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:08:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:07:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:06:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:05:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:04:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+09:04:53
+[MOD_TWF][28549-28609] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+09:03:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:02:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:01:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+09:00:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:59:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+08:59:48
+[MOD_TWF][29131-29326] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+08:58:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:57:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:56:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:55:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:54:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+08:54:43
+[MOD_TWF][29131-29286] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+IP隧道
+信息
+08:54:06
+[IPTUN] Manager:: user a3500e6ed9686896 reconnect success for ip 2.0.1.3, command fd is 109
+IP隧道
+信息
+08:54:06
+[IPTUN] Manager::_DoPvFlag ip was used, reuse pV!
+控制系统
+信息
+08:53:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:52:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:51:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:50:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:49:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+08:49:38
+[MOD_TWF][28549-28665] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+08:48:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:47:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:46:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:45:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:44:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+08:44:33
+[MOD_TWF][29131-29162] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+08:43:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:42:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:41:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:40:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:39:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+08:39:28
+[MOD_TWF][29131-29351] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+08:38:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:37:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:36:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:35:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:34:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+08:34:23
+[MOD_TWF][29131-29319] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+08:33:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:32:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:31:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:30:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:29:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+08:29:18
+[MOD_TWF][28549-28685] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+08:28:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:27:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:26:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:25:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:24:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+08:24:13
+[MOD_TWF][28549-28641] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+08:23:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:22:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:21:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:20:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:19:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+08:19:13
+[MOD_TWF][29131-29141] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+08:18:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:17:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:16:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:15:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:14:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+08:14:13
+[MOD_TWF][28549-28560] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+08:13:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:12:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+08:12:29
+[MOD_TWF][29131-29316] client device type is NULL, def to ssl<ip:1.203.146.118 uri:/por/login_auth.csp>
+控制系统
+信息
+08:11:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:10:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+08:10:40
+[LIB_LIO_CTRL]Pro online start to release user, totalcount :0
+控制系统
+信息
+08:09:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+08:09:08
+[MOD_TWF][28549-28718] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+08:08:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:07:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:06:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:05:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:04:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+08:04:03
+[MOD_TWF][28549-28675] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+08:03:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:02:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:01:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+08:00:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:59:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+07:58:58
+[MOD_TWF][28549-28631] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+07:58:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:57:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:56:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:55:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:54:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:53:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+07:53:53
+[MOD_TWF][28549-28585] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+07:52:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:51:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:50:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:49:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:48:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+07:48:48
+[MOD_TWF][29131-29329] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+07:47:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:46:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:45:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:44:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:43:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+07:43:43
+[MOD_TWF][29131-29279] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+07:42:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:41:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:40:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:39:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:38:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+07:38:38
+[MOD_TWF][29131-29235] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+07:37:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:36:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:35:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:34:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:33:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+07:33:33
+[MOD_TWF][29131-29164] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+07:32:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:31:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:30:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:29:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:28:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+07:28:33
+[MOD_TWF][29131-29352] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+07:27:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:26:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:25:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:24:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+07:24:15
+[REDIS][28549-28549] clientMode:0, isClusterd:0, enableSyslog:0, redis(host: 127.0.0.1 port: 7005 pass:6655942567585548667), sentinel(host: port: 0 pass:6142509188972423790)
+SSLVPN
+信息
+07:24:15
+[REDIS][28549-28549] update redis from (host: port: 0 pass:6142509188972423790) to (host: 127.0.0.1 port: 7005 pass:6655942567585548667) load redisconf
+SSLVPN
+信息
+07:24:15
+[REDIS][28549-28549] clientMode:0, isClusterd:0, enableSyslog:0, redis(host: 127.0.0.1 port: 7005 pass:6655942567585548667), sentinel(host: port: 0 pass:6142509188972423790)
+SSLVPN
+信息
+07:24:15
+[REDIS][28549-28549] update redis from (host: port: 0 pass:6142509188972423790) to (host: 127.0.0.1 port: 7005 pass:6655942567585548667) load redisconf
+SSLVPN
+信息
+07:24:15
+[DATA][28549-28549] init libdata ok, process uid:99 euid:99
+SSLVPN
+信息
+07:24:15
+[DATA][28549-28549] init libdata, process uid:99 euid:99 ...
+控制系统
+信息
+07:23:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+07:23:27
+[MOD_TWF][17065-17092] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+07:22:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:21:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:20:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:19:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:18:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+07:18:22
+[MOD_TWF][29131-29268] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+07:17:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:16:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:15:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:14:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:13:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+07:13:17
+[MOD_TWF][29131-29216] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+07:12:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:11:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:10:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+07:10:37
+[LIB_LIO_CTRL]Pro online start to release user, totalcount :0
+控制系统
+信息
+07:09:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:08:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+07:08:12
+[MOD_TWF][29131-29145] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+07:07:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:06:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:05:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:04:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:03:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+07:03:07
+[MOD_TWF][17065-17079] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+07:02:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:01:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+07:00:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:59:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:58:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+06:58:02
+[MOD_TWF][17065-17264] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+06:57:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:56:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:55:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:54:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:53:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+06:52:57
+[MOD_TWF][17065-17209] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+06:52:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:51:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:50:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:49:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:48:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:47:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+06:47:52
+[MOD_TWF][17065-17173] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+06:46:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:45:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:44:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:43:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+06:43:41
+[REDIS][29131-29131] clientMode:0, isClusterd:0, enableSyslog:0, redis(host: 127.0.0.1 port: 7005 pass:6655942567585548667), sentinel(host: port: 0 pass:6142509188972423790)
+SSLVPN
+信息
+06:43:41
+[REDIS][29131-29131] update redis from (host: port: 0 pass:6142509188972423790) to (host: 127.0.0.1 port: 7005 pass:6655942567585548667) load redisconf
+SSLVPN
+信息
+06:43:41
+[REDIS][29131-29131] clientMode:0, isClusterd:0, enableSyslog:0, redis(host: 127.0.0.1 port: 7005 pass:6655942567585548667), sentinel(host: port: 0 pass:6142509188972423790)
+SSLVPN
+信息
+06:43:41
+[REDIS][29131-29131] update redis from (host: port: 0 pass:6142509188972423790) to (host: 127.0.0.1 port: 7005 pass:6655942567585548667) load redisconf
+SSLVPN
+信息
+06:43:41
+[DATA][29131-29131] init libdata ok, process uid:99 euid:99
+SSLVPN
+信息
+06:43:41
+[DATA][29131-29131] init libdata, process uid:99 euid:99 ...
+控制系统
+信息
+06:42:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+06:42:52
+[MOD_TWF][1545-1743] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+06:41:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:40:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:39:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:38:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:37:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+06:37:51
+[MOD_TWF][17065-17091] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+06:36:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:35:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:34:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:33:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:32:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+06:32:51
+[MOD_TWF][1545-1626] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+06:31:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:30:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:29:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:28:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:27:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+06:27:46
+[MOD_TWF][1545-1621] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+06:26:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:25:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:24:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:23:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:22:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+06:22:41
+[MOD_TWF][17065-17170] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+06:21:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:20:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:19:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:18:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:17:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+06:17:36
+[MOD_TWF][1545-1733] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+06:16:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:15:56
+[main.cpp,543]begin import ldap user
+IP隧道
+信息
+06:15:32
+[IPTUN] Manager:: user a3500e6ed9686896 reconnect success for ip 2.0.1.3, command fd is 106
+IP隧道
+信息
+06:15:32
+[IPTUN] Manager::_DoPvFlag ip was used, reuse pV!
+控制系统
+信息
+06:14:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+06:14:34
+[SESSION_CHECK] User 007310 logout successfully,ip address: 125.78.101.201, session ID is b781ce596c9cd2d7
+SSLVPN
+信息
+06:14:34
+[LOGOUT_USRINFO][29682-29682] save logout usrinfo succ, sessid b781ce596c9cd2d7, value {"reason":"LOGOUT_TIMEOUT","msg":"timeout","data":{"time":1671920074}}
+控制系统
+信息
+06:13:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:12:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+06:12:31
+[MOD_TWF][1545-1675] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+06:11:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:10:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+06:10:34
+[LIB_LIO_CTRL]Pro online start to release user, totalcount :0
+控制系统
+信息
+06:09:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:08:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:07:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+06:07:31
+[MOD_TWF][17065-17219] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+06:06:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:05:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:04:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:03:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:02:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+06:02:31
+[MOD_TWF][1545-1597] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+06:01:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+06:00:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:59:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:58:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:57:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+05:57:31
+[MOD_TWF][1545-1550] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+05:56:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:55:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:54:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:53:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:52:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+05:52:31
+[MOD_TWF][17065-17267] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+05:51:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:50:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:49:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:48:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:47:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+05:47:31
+[MOD_TWF][1545-1641] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+05:46:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:45:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:44:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:43:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:42:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+05:42:31
+[MOD_TWF][1545-1627] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+05:41:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:40:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:39:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:38:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:37:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+05:37:30
+[MOD_TWF][17065-17160] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+05:36:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:35:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:34:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:33:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:32:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+05:32:30
+[MOD_TWF][1545-1739] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+05:31:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:30:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:29:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:28:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:27:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+05:27:30
+[MOD_TWF][1545-1693] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+05:26:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:25:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:24:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:23:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:22:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+05:22:30
+[MOD_TWF][1545-1639] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+05:21:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:20:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:19:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:18:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:17:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+05:17:30
+[MOD_TWF][1545-1616] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+05:16:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:15:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:14:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:13:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:12:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+05:12:30
+[MOD_TWF][17065-17139] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+05:11:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:10:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+05:10:30
+[LIB_LIO_CTRL]Pro online start to release user, totalcount :0
+控制系统
+信息
+05:09:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:08:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:07:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+05:07:30
+[MOD_TWF][1545-1730] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+05:06:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:05:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:04:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:03:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:02:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+05:02:30
+[MOD_TWF][1545-1675] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+05:01:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+05:00:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:59:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:58:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:57:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+04:57:30
+[MOD_TWF][17065-17204] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+04:56:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:55:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:54:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:53:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:52:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+04:52:30
+[MOD_TWF][17065-17159] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+04:51:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:50:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:49:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:48:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:47:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+04:47:30
+[MOD_TWF][17065-17125] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+04:46:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:45:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:44:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:43:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+04:43:29
+[SESSION_CHECK] User 3410132 logout successfully,ip address: 125.34.57.51, session ID is 85601cdb4e175f2c
+SSLVPN
+信息
+04:43:29
+[LOGOUT_USRINFO][29682-29682] save logout usrinfo succ, sessid 85601cdb4e175f2c, value {"reason":"LOGOUT_TIMEOUT","msg":"timeout","data":{"time":1671914609}}
+控制系统
+信息
+04:42:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+04:42:30
+[MOD_TWF][17065-17083] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+04:41:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:40:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:39:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:38:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:37:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+04:37:30
+[MOD_TWF][17065-17252] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+04:36:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:35:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:34:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:33:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:32:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+04:32:30
+[MOD_TWF][1545-1646] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+04:31:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:30:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:29:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:28:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:27:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+04:27:30
+[MOD_TWF][17065-17145] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+04:26:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:25:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:24:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:23:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:22:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+04:22:30
+[MOD_TWF][1545-1736] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+04:21:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:20:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:19:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:18:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:17:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+04:17:30
+[MOD_TWF][1545-1690] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+04:16:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:15:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:15:02
+[integralChk][custom] check_sq3_config, nret=0
+控制系统
+信息
+04:15:02
+[integralChk][custom] check_sq3_config, nret=0
+控制系统
+信息
+04:14:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:13:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:12:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+04:12:30
+[MOD_TWF][17065-17202] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+04:11:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:10:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+04:10:27
+[LIB_LIO_CTRL]Pro online start to release user, totalcount :0
+控制系统
+信息
+04:09:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:08:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:07:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+04:07:30
+[MOD_TWF][1545-1614] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+04:06:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:05:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:05:02
+[integralChk][custom] check_sq3_config, nret=0
+控制系统
+信息
+04:04:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:03:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:02:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+04:02:30
+[MOD_TWF][1545-1569] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+04:02:03
+[integralChk][custom] check_sq3_config, nret=0
+控制系统
+信息
+04:01:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+04:00:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:59:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:58:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:57:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+03:57:30
+[MOD_TWF][1545-1710] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+03:56:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+03:56:26
+[SESSION_CHECK] User 77040513 logout successfully,ip address: 110.87.19.73, session ID is a6601ce2968fff2d
+SSLVPN
+信息
+03:56:26
+[LOGOUT_USRINFO][29682-29682] save logout usrinfo succ, sessid a6601ce2968fff2d, value {"reason":"LOGOUT_TIMEOUT","msg":"timeout","data":{"time":1671911786}}
+控制系统
+信息
+03:55:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:54:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:53:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:52:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+03:52:30
+[MOD_TWF][1545-1645] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+03:51:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:50:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:49:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:48:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:47:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+03:47:30
+[MOD_TWF][1545-1646] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+03:46:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:45:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:44:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:43:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:42:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+03:42:30
+[MOD_TWF][1545-1573] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+03:41:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:40:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:39:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:38:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:37:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+03:37:30
+[MOD_TWF][1545-1743] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+03:36:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:35:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:34:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:33:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:32:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+03:32:30
+[MOD_TWF][17065-17235] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+03:31:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:30:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:29:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:28:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:27:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+03:27:30
+[MOD_TWF][17065-17217] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+03:26:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:25:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:24:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:23:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:22:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+03:22:29
+[MOD_TWF][17065-17174] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+03:21:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:20:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:19:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:18:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:17:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+03:17:24
+[MOD_TWF][1545-1585] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+03:16:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:15:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:14:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:13:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:12:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+03:12:24
+[MOD_TWF][17065-17107] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+03:11:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:10:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+03:10:24
+[LIB_LIO_CTRL]Pro online start to release user, totalcount :0
+控制系统
+信息
+03:09:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:08:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:07:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+03:07:23
+[MOD_TWF][1545-1684] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+03:06:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:05:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:04:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:03:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:02:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+03:02:23
+[MOD_TWF][17065-17201] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+03:01:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+03:00:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:59:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:58:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:57:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+02:57:23
+[MOD_TWF][1545-1587] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+02:56:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:55:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:54:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:53:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:52:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+02:52:23
+[MOD_TWF][1545-1553] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+02:51:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:50:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:49:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:48:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:47:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+02:47:23
+[MOD_TWF][17065-17231] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+02:46:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:45:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:44:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:43:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:42:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+02:42:23
+[MOD_TWF][17065-17211] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+02:41:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:40:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:39:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:38:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:37:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+02:37:23
+[MOD_TWF][17065-17173] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+02:36:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:35:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:34:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:33:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:32:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+02:32:18
+[MOD_TWF][17065-17121] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+02:31:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:30:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:29:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:28:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:27:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+02:27:13
+[MOD_TWF][17065-17102] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+02:26:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:25:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:24:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:23:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:22:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+02:22:08
+[MOD_TWF][17065-17217] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+02:21:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:20:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:19:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:18:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:17:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+02:17:03
+[MOD_TWF][1545-1635] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+02:16:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:15:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:14:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:13:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:12:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+02:11:58
+[MOD_TWF][17065-17125] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+02:11:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:10:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+02:10:20
+[LIB_LIO_CTRL]Pro online start to release user, totalcount :0
+控制系统
+信息
+02:09:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:08:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:07:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+02:06:58
+[MOD_TWF][1545-1734] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+02:06:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:05:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:04:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:03:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:02:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+02:01:58
+[MOD_TWF][17065-17227] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+02:01:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+02:00:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:59:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:58:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:57:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+01:56:58
+[MOD_TWF][17065-17189] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+01:56:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:55:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:54:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:53:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:52:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:51:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+01:51:53
+[MOD_TWF][1545-1597] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+01:50:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:49:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:48:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:47:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:46:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+01:46:48
+[MOD_TWF][17065-17268] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+01:45:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:44:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:43:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:42:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:41:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+01:41:48
+[MOD_TWF][1545-1695] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+01:40:56
+[main.cpp,543]begin import ldap user
+ 
+ 
+ 
+ 	
+ 
+ 
+ 
+ 
+ 
+ 
+ 	
+ 
+ 
+ 
+
+
+日期:
+2022-12-25
+
+ 
+ 
+ 
+刷新日志	
+ 
+ 
+ 
+ 
+ 
+ 
+配置选项	
+ 
+ 
+ 
+ 
+ 
+ 
+导出日志	
+ 
+ 
+ 
+展开详细信息
+来源	
+类型	
+时间
+详细信息
+控制系统
+信息
+01:39:56
+[main.cpp,543]begin import ldap user
+IP隧道
+信息
+01:39:09
+[IPTUN] Manager::_UserQuit release ip 33554696 session 85601cdb4e175f2c
+IP隧道
+信息
+01:39:09
+[IPTUN] Release DYNAMICALLOCATED IP 2.0.1.8, tun Tun0
+控制系统
+信息
+01:38:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:37:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:36:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+01:36:48
+[MOD_TWF][17065-17186] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+01:35:56
+[main.cpp,543]begin import ldap user
+IP隧道
+信息
+01:34:57
+[IPTUN] Manager::_UserQuit release ip 33554689 session b781ce596c9cd2d7
+IP隧道
+信息
+01:34:57
+[IPTUN] Release DYNAMICALLOCATED IP 2.0.1.1, tun Tun1
+控制系统
+信息
+01:34:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:33:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:32:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:31:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+01:31:43
+[MOD_TWF][1545-1606] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+01:30:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:29:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:28:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:27:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:26:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+01:26:38
+[MOD_TWF][1545-1557] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+01:25:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:24:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:23:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:22:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:21:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+01:21:38
+[MOD_TWF][17065-17224] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+01:20:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:19:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:18:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:17:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:16:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+01:16:33
+[MOD_TWF][1545-1656] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+01:15:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:14:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:13:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:12:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:11:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+01:11:28
+[MOD_TWF][1545-1573] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+01:10:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+01:10:17
+[LIB_LIO_CTRL]Pro online start to release user, totalcount :0
+控制系统
+信息
+01:09:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:08:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:07:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:06:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+01:06:23
+[MOD_TWF][1545-1726] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+01:05:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:04:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:03:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:02:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+01:01:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+01:01:18
+[MOD_TWF][17065-17259] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+01:00:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:59:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:58:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:57:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:56:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+00:56:18
+[MOD_TWF][17065-17176] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+00:55:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:54:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:53:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:52:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:51:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+00:51:13
+[MOD_TWF][17065-17112] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+00:50:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:49:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:48:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:47:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:46:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+00:46:08
+[MOD_TWF][1545-1709] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+00:45:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:44:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:43:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:42:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:41:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+00:41:03
+[MOD_TWF][17065-17180] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+00:40:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:39:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:38:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:37:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:36:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+00:35:58
+[MOD_TWF][1545-1573] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+00:35:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:34:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:33:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:32:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:31:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+00:30:58
+[MOD_TWF][17065-17093] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+00:30:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:29:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:28:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:27:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:26:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:25:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+00:25:52
+[MOD_TWF][1545-1691] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+00:24:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:23:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:22:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:21:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:20:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+00:20:47
+[MOD_TWF][1545-1594] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+00:19:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:18:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:17:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:16:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:15:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+00:15:42
+[MOD_TWF][17065-17090] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+00:14:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:13:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:12:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:11:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:10:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+00:10:37
+[MOD_TWF][1545-1700] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+SSLVPN
+信息
+00:10:14
+[LIB_LIO_CTRL]Pro online start to release user, totalcount :0
+控制系统
+信息
+00:09:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:08:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:07:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:06:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:05:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+00:05:32
+[MOD_TWF][1545-1633] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+控制系统
+信息
+00:04:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:03:56
+[main.cpp,543]begin import ldap user
+IP隧道
+信息
+00:03:48
+[IPTUN] Manager::_UserQuit release ip 33554690 session a6601ce2968fff2d
+IP隧道
+信息
+00:03:48
+[IPTUN] Release DYNAMICALLOCATED IP 2.0.1.2, tun Tun2
+控制系统
+信息
+00:02:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:01:56
+[main.cpp,543]begin import ldap user
+控制系统
+信息
+00:00:56
+[main.cpp,543]begin import ldap user
+SSLVPN
+信息
+00:00:27
+[MOD_TWF][17065-17267] client device type is NULL, def to ssl<ip:114.88.133.251 uri:/por/login_auth.csp>
+ 
+ 
+ 
+ 	
+ 
+ 
+ 
+ 
+ 
+ 
+ 	
+ 
+ 
+

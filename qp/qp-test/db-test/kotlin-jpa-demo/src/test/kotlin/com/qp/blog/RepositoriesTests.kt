@@ -1,0 +1,54 @@
+package com.qp.blog
+
+import org.assertj.core.api.Assertions.assertThat
+import org.junit.jupiter.api.Test
+import org.springframework.beans.factory.annotation.Autowired
+import org.springframework.boot.test.autoconfigure.jdbc.AutoConfigureTestDatabase
+import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest
+import org.springframework.boot.test.autoconfigure.orm.jpa.TestEntityManager
+import org.springframework.data.repository.findByIdOrNull
+import org.springframework.test.annotation.Commit
+
+@DataJpaTest
+@AutoConfigureTestDatabase(replace = AutoConfigureTestDatabase.Replace.NONE) //如果使用H2数据库,可以不使用该注释
+class RepositoriesTests @Autowired constructor(
+		val entityManager: TestEntityManager,
+		val userRepository: UserRepository,
+		val articleRepository: ArticleRepository) {
+
+	@Test
+	@Commit
+	fun `When findByIdOrNull then return Article`() {
+		val juergen = User("springjuergen", "Juergen", "Hoeller")
+		entityManager.persist(juergen)
+		val article = Article("Spring Framework 5.0 goes GA", "Dear Spring community ...", "Lorem ipsum", juergen)
+		entityManager.persist(article)
+		entityManager.flush()
+		val found = articleRepository.findByIdOrNull(article.id!!)
+		assertThat(found).isEqualTo(article)
+	}
+
+	@Test
+	@Commit
+	fun `When findByLogin then return User`() {
+		val juergen = User("springjuergen", "Juergen", "Hoeller")
+		entityManager.persist(juergen)
+		entityManager.flush()
+		val user = userRepository.findByLogin(juergen.login)
+		assertThat(user).isEqualTo(juergen)
+	}
+	@Test
+	@Commit
+	fun `使用springboot jpa 保存 Article`() {
+		val juergen = User("springjuergen22", "Juergen22", "Hoeller22")
+		userRepository.save(juergen)
+	}
+
+	@Test
+	@Commit
+	fun `使用springboot jpa 保存 Article历史`() {
+		val juergen = User("springjuergen44", "Juergen44", "Hoeller44")
+		juergen.extJson1 = mapOf("king" to "lhl")
+		userRepository.save(juergen)
+	}
+}

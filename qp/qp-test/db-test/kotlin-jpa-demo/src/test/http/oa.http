@@ -1,0 +1,5 @@
+### Send POST request with json body
+POST http://192.168.12.119:50000/RESTAdapter/OA/ZC01
+Content-Type: application/json
+
+{}
